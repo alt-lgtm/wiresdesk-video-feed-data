@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-19T06:06:38.002Z",
-  "totalArchiveVideos": 223,
-  "count": 223,
+  "generatedAt": "2026-11-19T06:18:44.256Z",
+  "totalArchiveVideos": 224,
+  "count": 224,
   "videos": [
     {
       "id": "GUtRlF1sKEc",
@@ -2632,6 +2632,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/33ET8bSA9qk",
       "publishedAt": "2021-09-10",
+      "durationSeconds": null
+    },
+    {
+      "id": "s311bkygYSQ",
+      "title": "Shenzen: rencontre bilatérale entre Donald Trump et Vladimir Poutine",
+      "source": "BFMTV",
+      "category": "Política",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/s311bkygYSQ",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
