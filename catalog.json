@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-19T02:19:54.317Z",
-  "totalArchiveVideos": 91,
-  "count": 91,
+  "generatedAt": "2026-11-19T04:19:33.419Z",
+  "totalArchiveVideos": 95,
+  "count": 95,
   "videos": [
     {
       "id": "GUtRlF1sKEc",
@@ -17,6 +17,18 @@
       "url": "https://www.youtube.com/shorts/GUtRlF1sKEc",
       "publishedAt": "2026-11-18T18:21:33.000Z",
       "durationSeconds": 91
+    },
+    {
+      "id": "22lHvBA_Sl8",
+      "title": "La Unión Europea prepara un nuevo préstamo de 45.000 millones de euros para sostener a Kiev",
+      "source": "Euronews en español",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/22lHvBA_Sl8",
+      "publishedAt": "2026-11-18T17:45:25.000Z",
+      "durationSeconds": 27
     },
     {
       "id": "wty3N_sMf5Q",
@@ -173,18 +185,6 @@
       "url": "https://www.youtube.com/shorts/HEfSZ29JJrk",
       "publishedAt": "2026-11-18T17:46:28.000Z",
       "durationSeconds": 125
-    },
-    {
-      "id": "22lHvBA_Sl8",
-      "title": "La Unión Europea prepara un nuevo préstamo de 45.000 millones de euros para sostener a Kiev",
-      "source": "Euronews en español",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/22lHvBA_Sl8",
-      "publishedAt": "2026-11-18T17:45:25.000Z",
-      "durationSeconds": 27
     },
     {
       "id": "x-xkj2mjUlo",
@@ -353,6 +353,54 @@
       "url": "https://www.youtube.com/shorts/MXGSseNS5Dk",
       "publishedAt": "2026-11-16T15:01:22.000Z",
       "durationSeconds": 70
+    },
+    {
+      "id": "BQCq9HzPGqM",
+      "title": "China’s Xi greets Putin and Trump at APEC Summit",
+      "source": "CNN",
+      "category": "Política",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/BQCq9HzPGqM",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "KAHXPo87N28",
+      "title": "Anthropic just signaled Wall Street is eager to bet on the AI boom",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/KAHXPo87N28",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "lFsjwdVXcUY",
+      "title": "Raskin accuses Lutnick of taking job 'precisely to protect Nvidia' on chips",
+      "source": "CNN",
+      "category": "Economía",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/lFsjwdVXcUY",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "k8s6aiwkr78",
+      "title": "Elon Musk turns back on MAGA",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/k8s6aiwkr78",
+      "publishedAt": null,
+      "durationSeconds": null
     },
     {
       "id": "Wj5paDHjKkY",
