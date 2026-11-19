@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-19T05:56:41.938Z",
-  "totalArchiveVideos": 220,
-  "count": 220,
+  "generatedAt": "2026-11-19T06:06:38.002Z",
+  "totalArchiveVideos": 223,
+  "count": 223,
   "videos": [
     {
       "id": "GUtRlF1sKEc",
@@ -2632,6 +2632,42 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/33ET8bSA9qk",
       "publishedAt": "2021-09-10",
+      "durationSeconds": null
+    },
+    {
+      "id": "UrtqP1RSG8c",
+      "title": "¿El Plan México ofrece las condiciones necesarias para atraer inversión extranjera?",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/UrtqP1RSG8c",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "V3rQvBOjZnQ",
+      "title": "Trieste, multata per aver curato i migranti: è guerra alla solidarietà",
+      "source": "Fanpage.it",
+      "category": "Sociedad",
+      "country": "it",
+      "lang": "it",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/V3rQvBOjZnQ",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "umXyNYJUatY",
+      "title": "Kurz afk. #gaming #tagesschau #tagesthemen",
+      "source": "Tagesschau",
+      "category": "Actualidad",
+      "country": "de",
+      "lang": "de",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/umXyNYJUatY",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
