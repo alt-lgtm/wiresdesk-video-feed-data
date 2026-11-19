@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-19T00:19:44.834Z",
-  "totalArchiveVideos": 86,
-  "count": 86,
+  "generatedAt": "2026-11-19T02:19:54.317Z",
+  "totalArchiveVideos": 91,
+  "count": 91,
   "videos": [
     {
       "id": "GUtRlF1sKEc",
@@ -353,6 +353,66 @@
       "url": "https://www.youtube.com/shorts/MXGSseNS5Dk",
       "publishedAt": "2026-11-16T15:01:22.000Z",
       "durationSeconds": 70
+    },
+    {
+      "id": "Wj5paDHjKkY",
+      "title": "What Trump admin officials told lawmakers about tech outages and Nvidia",
+      "source": "CNN",
+      "category": "Economía",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Wj5paDHjKkY",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "gX1efpN64ak",
+      "title": "TV host announces pregnancy at age 59",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/gX1efpN64ak",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "YtNQO-L3WEw",
+      "title": "Could red states like Texas become 2028 battlegrounds?",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/YtNQO-L3WEw",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "Qn-jGMQ7Puc",
+      "title": "Watch Trump’s judicial nominee’s response about a third term",
+      "source": "CNN",
+      "category": "Política",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Qn-jGMQ7Puc",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "3m4ELZJbxkU",
+      "title": "When Trump, Putin and Xi Meet in China, What Does Each Want?",
+      "source": "The New York Times",
+      "category": "Política",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/3m4ELZJbxkU",
+      "publishedAt": null,
+      "durationSeconds": null
     },
     {
       "id": "mELyL7VYZUQ",
