@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-18T22:18:34.819Z",
-  "totalArchiveVideos": 82,
-  "count": 82,
+  "generatedAt": "2026-11-19T00:19:44.834Z",
+  "totalArchiveVideos": 86,
+  "count": 86,
   "videos": [
     {
       "id": "GUtRlF1sKEc",
@@ -353,6 +353,54 @@
       "url": "https://www.youtube.com/shorts/MXGSseNS5Dk",
       "publishedAt": "2026-11-16T15:01:22.000Z",
       "durationSeconds": 70
+    },
+    {
+      "id": "mELyL7VYZUQ",
+      "title": "NVIDIA’s ‘circular financing’ empire, explained",
+      "source": "CNN",
+      "category": "Economía",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/mELyL7VYZUQ",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "f4iC1QrvKDY",
+      "title": "Meet the Harvard students with alternatives to Trump’s unpopular arch",
+      "source": "CNN",
+      "category": "Política",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/f4iC1QrvKDY",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "0KOxOe19u0w",
+      "title": "Hitting the NYC marathon's \"sound wall\"",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/0KOxOe19u0w",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "L0At6xy2Qto",
+      "title": "Voyager 1 is now one light-day from Earth",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/L0At6xy2Qto",
+      "publishedAt": null,
+      "durationSeconds": null
     },
     {
       "id": "Rt10qFdnWYI",
