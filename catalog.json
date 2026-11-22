@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-22T05:26:18.025Z",
-  "totalArchiveVideos": 1370,
+  "generatedAt": "2026-11-22T06:09:53.978Z",
+  "totalArchiveVideos": 1372,
   "count": 500,
   "videos": [
     {
@@ -28,6 +28,30 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/GU2kFfATl_0",
       "publishedAt": "2026-11-20",
+      "durationSeconds": null
+    },
+    {
+      "id": "TDpyWuj44_E",
+      "title": "Madeira's ocean survey finds evidence protection works – and some worrying signs",
+      "source": "Euronews English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/TDpyWuj44_E",
+      "publishedAt": "2026-11-21",
+      "durationSeconds": null
+    },
+    {
+      "id": "6KNBTMco9vA",
+      "title": "Suffolk village votes to ‘leave UK’ in protest over asylum seeker plans",
+      "source": "Euronews English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/6KNBTMco9vA",
+      "publishedAt": "2026-11-21",
       "durationSeconds": null
     },
     {
@@ -5967,30 +5991,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/mSop_NV22YM",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "fo70qeDMDk4",
-      "title": "🔝 📰 #TopNews | Todo es posible en Automoción, ¿verdad?",
-      "source": "Antena 3 Noticias",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/fo70qeDMDk4",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "0iJ8WbB39J8",
-      "title": "Brutal caída del voto por correo para el 29n: la gente no se fía, esta es la cifra",
-      "source": "ESdiario TV",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/0iJ8WbB39J8",
       "publishedAt": "2026-11-20",
       "durationSeconds": null
     },
