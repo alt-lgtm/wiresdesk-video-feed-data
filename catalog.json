@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-22T03:36:22.861Z",
-  "totalArchiveVideos": 1363,
+  "generatedAt": "2026-11-22T04:30:18.105Z",
+  "totalArchiveVideos": 1366,
   "count": 500,
   "videos": [
     {
@@ -28,6 +28,54 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/GU2kFfATl_0",
       "publishedAt": "2026-11-20",
+      "durationSeconds": null
+    },
+    {
+      "id": "bZMROL9KiO8",
+      "title": "Thanksgiving travel rush kicks off after FAA meltdown",
+      "source": "NBC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/bZMROL9KiO8",
+      "publishedAt": "2026-11-21",
+      "durationSeconds": null
+    },
+    {
+      "id": "lSe3aDgNhno",
+      "title": "Bessent confirms he’s living on US military base over Iran fears | AJ #shorts",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/lSe3aDgNhno",
+      "publishedAt": "2026-11-21",
+      "durationSeconds": null
+    },
+    {
+      "id": "3PG4r4TTW4c",
+      "title": "Activist wins long legal struggle to overturn anti-gay laws in Trinidad and Tobago | DW News",
+      "source": "DW News",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/3PG4r4TTW4c",
+      "publishedAt": "2026-11-21",
+      "durationSeconds": null
+    },
+    {
+      "id": "j-Zam_DkCAw",
+      "title": "Florida floods: thousands of homes submerged as National Guard carries out rescues",
+      "source": "Al Jazeera English",
+      "category": "Sociedad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/j-Zam_DkCAw",
+      "publishedAt": "2026-11-21",
       "durationSeconds": null
     },
     {
@@ -5935,62 +5983,14 @@
       "durationSeconds": null
     },
     {
-      "id": "g9Q_wEFpnII",
-      "title": "🎙️ ¿Quién GANÓ el DEBATE cara a cara? 🏛️⚖️",
-      "source": "El Confidencial",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "opinion",
-      "url": "https://www.youtube.com/shorts/g9Q_wEFpnII",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "p1z56HBz3eY",
-      "title": "Caso Master: Fachin mantém prisão do ex-banqueiro Daniel Vorcaro",
-      "source": "g1",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/p1z56HBz3eY",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "S1lrhruVj_A",
-      "title": "Madagascar : le procès de l'empoisonnement présumé de 31 personnes s'est ouvert • FRANCE 24",
-      "source": "France 24",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/S1lrhruVj_A",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "3PG4r4TTW4c",
-      "title": "Activist wins long legal struggle to overturn anti-gay laws in Trinidad and Tobago | DW News",
-      "source": "DW News",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/3PG4r4TTW4c",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "j-Zam_DkCAw",
-      "title": "Florida floods: thousands of homes submerged as National Guard carries out rescues",
+      "id": "-qVA-3nJLuA",
+      "title": "UK Foreign Secretary says rejoining EU 'could be on the table' as Burnham resets ties",
       "source": "Al Jazeera English",
-      "category": "Sociedad",
+      "category": "Actualidad",
       "country": "global",
       "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/j-Zam_DkCAw",
+      "url": "https://www.youtube.com/shorts/-qVA-3nJLuA",
       "publishedAt": null,
       "durationSeconds": null
     },
