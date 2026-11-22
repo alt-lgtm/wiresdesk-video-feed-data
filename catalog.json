@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-22T07:27:18.040Z",
-  "totalArchiveVideos": 1377,
+  "generatedAt": "2026-11-22T08:00:24.735Z",
+  "totalArchiveVideos": 1381,
   "count": 500,
   "videos": [
     {
@@ -28,6 +28,78 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/GU2kFfATl_0",
       "publishedAt": "2026-11-20",
+      "durationSeconds": null
+    },
+    {
+      "id": "z0QByE7Q52g",
+      "title": "Barnham vota dejar simbólicamente el Reino Unido en protesta por los planes de asilo",
+      "source": "Euronews en español",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/z0QByE7Q52g",
+      "publishedAt": "2026-11-21",
+      "durationSeconds": null
+    },
+    {
+      "id": "sWPm-h0_AsQ",
+      "title": "Dashcam captures Russian missile strike on Lviv, Ukraine | AJ #shorts",
+      "source": "Al Jazeera English",
+      "category": "Sociedad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/sWPm-h0_AsQ",
+      "publishedAt": "2026-11-21",
+      "durationSeconds": null
+    },
+    {
+      "id": "jV1AVnPc_JI",
+      "title": "Las protestas por el coste de la vida y la desigualdad social sacuden España, Portugal y Francia",
+      "source": "Euronews en español",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/jV1AVnPc_JI",
+      "publishedAt": "2026-11-21",
+      "durationSeconds": null
+    },
+    {
+      "id": "ymhpyZH0KFE",
+      "title": "Manifestation du 17 octobre à Paris: une commerçante frappée par erreur par des CRS témoigne",
+      "source": "BFMTV",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/ymhpyZH0KFE",
+      "publishedAt": "2026-11-21",
+      "durationSeconds": null
+    },
+    {
+      "id": "0lZuOn_2OeU",
+      "title": "Is the global cyber panic real? The answer may surprise you",
+      "source": "Sky News",
+      "category": "Tecnología",
+      "country": "gb",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/0lZuOn_2OeU",
+      "publishedAt": "2026-11-21",
+      "durationSeconds": null
+    },
+    {
+      "id": "xlXb6dEW1T0",
+      "title": "Hideo Suzuki, l'ambassadeur partageur",
+      "source": "Franceinfo",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/xlXb6dEW1T0",
+      "publishedAt": "2026-11-21",
       "durationSeconds": null
     },
     {
@@ -5920,78 +5992,6 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/E5otlcY2Q0A",
       "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "NJf1oMbDUv8",
-      "title": "#YaTDigo: Lo que no se ve en los debates",
-      "source": "RTVE Noticias",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "opinion",
-      "url": "https://www.youtube.com/shorts/NJf1oMbDUv8",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "H-PAMAa4v9s",
-      "title": "Jerusalem Daily: Palestinians return home to ruins | AJ #shorts",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/H-PAMAa4v9s",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "kG_YoJgys44",
-      "title": "Britain and the EU pledge rebuild ties.",
-      "source": "Euronews English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/kG_YoJgys44",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "IlLnYG5hMZE",
-      "title": "European leaders, President Trump clash over summit with China and Russia",
-      "source": "ABC News",
-      "category": "Política",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/IlLnYG5hMZE",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "0lZuOn_2OeU",
-      "title": "Is the global cyber panic real? The answer may surprise you",
-      "source": "Sky News",
-      "category": "Tecnología",
-      "country": "gb",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/0lZuOn_2OeU",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "xlXb6dEW1T0",
-      "title": "Hideo Suzuki, l'ambassadeur partageur",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/xlXb6dEW1T0",
-      "publishedAt": null,
       "durationSeconds": null
     },
     {
