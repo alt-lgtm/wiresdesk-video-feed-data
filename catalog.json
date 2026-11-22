@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-22T04:30:18.105Z",
-  "totalArchiveVideos": 1366,
+  "generatedAt": "2026-11-22T04:46:18.021Z",
+  "totalArchiveVideos": 1367,
   "count": 500,
   "videos": [
     {
@@ -31,6 +31,18 @@
       "durationSeconds": null
     },
     {
+      "id": "M7rgEb_dh74",
+      "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/M7rgEb_dh74",
+      "publishedAt": "2026-11-21",
+      "durationSeconds": null
+    },
+    {
       "id": "bZMROL9KiO8",
       "title": "Thanksgiving travel rush kicks off after FAA meltdown",
       "source": "NBC News",
@@ -39,6 +51,18 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/bZMROL9KiO8",
+      "publishedAt": "2026-11-21",
+      "durationSeconds": null
+    },
+    {
+      "id": "-qVA-3nJLuA",
+      "title": "UK Foreign Secretary says rejoining EU 'could be on the table' as Burnham resets ties",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/-qVA-3nJLuA",
       "publishedAt": "2026-11-21",
       "durationSeconds": null
     },
@@ -5968,30 +5992,6 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/52esFQw9gIw",
       "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "VqWan1T0Qyc",
-      "title": "Party hats and pillows: inside a seal’s journey to recovery",
-      "source": "CNN",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/VqWan1T0Qyc",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "-qVA-3nJLuA",
-      "title": "UK Foreign Secretary says rejoining EU 'could be on the table' as Burnham resets ties",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/-qVA-3nJLuA",
-      "publishedAt": null,
       "durationSeconds": null
     },
     {
