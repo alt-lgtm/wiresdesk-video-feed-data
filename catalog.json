@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-22T12:30:23.486Z",
-  "totalArchiveVideos": 1428,
+  "generatedAt": "2026-11-22T12:57:17.883Z",
+  "totalArchiveVideos": 1431,
   "count": 500,
   "videos": [
     {
@@ -79,6 +79,18 @@
       "durationSeconds": null
     },
     {
+      "id": "BooLJcloKbs",
+      "title": "Ukraine’s winter crisis: The struggle to repair shattered windows",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/BooLJcloKbs",
+      "publishedAt": "2026-11-22",
+      "durationSeconds": null
+    },
+    {
       "id": "KadPRTK6EwQ",
       "title": "Herói das Sete Quedas salvou seis pessoas de tragédia que matou 32",
       "source": "g1",
@@ -123,6 +135,30 @@
       "lang": "fr",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/0uLRfhlFZRE",
+      "publishedAt": "2026-11-22",
+      "durationSeconds": null
+    },
+    {
+      "id": "k8gWqxwYnZk",
+      "title": "Is an amnesty coming on immigration? Poppy heads to Ellis Island to find out",
+      "source": "The Telegraph",
+      "category": "Actualidad",
+      "country": "gb",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/k8gWqxwYnZk",
+      "publishedAt": "2026-11-22",
+      "durationSeconds": null
+    },
+    {
+      "id": "qq0Klzg580A",
+      "title": "Russian ship attacked by drone in Baltic Sea off Finland",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/qq0Klzg580A",
       "publishedAt": "2026-11-22",
       "durationSeconds": null
     },
@@ -5815,39 +5851,39 @@
       "durationSeconds": null
     },
     {
-      "id": "5tXb4ZgpJ3w",
-      "title": "Can Péter Magyar restore the rule of law?",
-      "source": "Euronews English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/5tXb4ZgpJ3w",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "ZO10oqkTlXc",
-      "title": "David Muir shares officers' heaven-sent subway track rescue of woman dressed as angel",
-      "source": "ABC News",
-      "category": "Sociedad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/ZO10oqkTlXc",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "LE8gEVsncrQ",
-      "title": "Trump threatens to tax companies that build data centers abroad",
+      "id": "On7sltNKp0c",
+      "title": "Cartel leader captured in northern Mexico in firefight",
       "source": "NBC News",
-      "category": "Política",
+      "category": "Actualidad",
       "country": "us",
       "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/LE8gEVsncrQ",
-      "publishedAt": "2026-11-20",
+      "url": "https://www.youtube.com/shorts/On7sltNKp0c",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "fdpCtWDfvSA",
+      "title": "COP31 segue sem acordo após UE e outros países rejeitarem texto final",
+      "source": "g1",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/fdpCtWDfvSA",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "RkYGLsSwxAA",
+      "title": "Klimakonferenz scheitert an zentralem Abschlusstext",
+      "source": "Tagesschau",
+      "category": "Actualidad",
+      "country": "de",
+      "lang": "de",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/RkYGLsSwxAA",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5955,42 +5991,6 @@
       "lang": "es",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/a_OA7fLCyPo",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "BooLJcloKbs",
-      "title": "Ukraine’s winter crisis: The struggle to repair shattered windows",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/BooLJcloKbs",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "k8gWqxwYnZk",
-      "title": "Is an amnesty coming on immigration? Poppy heads to Ellis Island to find out",
-      "source": "The Telegraph",
-      "category": "Actualidad",
-      "country": "gb",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/k8gWqxwYnZk",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "qq0Klzg580A",
-      "title": "Russian ship attacked by drone in Baltic Sea off Finland",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/qq0Klzg580A",
       "publishedAt": null,
       "durationSeconds": null
     },
