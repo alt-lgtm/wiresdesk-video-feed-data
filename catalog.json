@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-22T08:27:47.994Z",
-  "totalArchiveVideos": 1383,
+  "generatedAt": "2026-11-22T08:59:18.248Z",
+  "totalArchiveVideos": 1384,
   "count": 500,
   "videos": [
     {
@@ -28,6 +28,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/GU2kFfATl_0",
       "publishedAt": "2026-11-20",
+      "durationSeconds": null
+    },
+    {
+      "id": "2-JJ8ujvF_g",
+      "title": "29N | Rufián (ERC): \"Más que fascismo hay un 'hijoputismo' que está de moda\" #shorts",
+      "source": "EL PAÍS",
+      "category": "Actualidad",
+      "country": "es",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/2-JJ8ujvF_g",
+      "publishedAt": "2026-11-22",
       "durationSeconds": null
     },
     {
@@ -5979,18 +5991,6 @@
       "lang": "fr",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/s35BhYx1X_E",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "18V_ADhB9po",
-      "title": "Neue Weltordnung? Ulf Röller bei Lanz: Xi ist der \"mächtigster Mann der Welt\" | #trump #xi #putin",
-      "source": "ZDFheute",
-      "category": "Política",
-      "country": "de",
-      "lang": "de",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/18V_ADhB9po",
       "publishedAt": "2026-11-20",
       "durationSeconds": null
     },
