@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-22T00:30:18.223Z",
-  "totalArchiveVideos": 1353,
+  "generatedAt": "2026-11-22T01:00:18.112Z",
+  "totalArchiveVideos": 1355,
   "count": 500,
   "videos": [
     {
@@ -28,6 +28,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/GU2kFfATl_0",
       "publishedAt": "2026-11-20",
+      "durationSeconds": null
+    },
+    {
+      "id": "VIfIOiqktpM",
+      "title": "¡MÉXICO ENTRE POTENCIAS! El riesgo diplomático de acercarse a China frente a EU",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/VIfIOiqktpM",
+      "publishedAt": "2026-11-21",
       "durationSeconds": null
     },
     {
@@ -5827,27 +5839,15 @@
       "durationSeconds": null
     },
     {
-      "id": "urAHxBgtFME",
-      "title": "Casal fatura R$ 48 mil por mês com doces tradicionais de mais de 200 anos",
-      "source": "g1",
+      "id": "rQXrEoTChYE",
+      "title": "Clashes erupt across France in another night of protest | AJ #shorts",
+      "source": "Al Jazeera English",
       "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
+      "country": "global",
+      "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/urAHxBgtFME",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "mu9mk7TuCrM",
-      "title": "Lula aprova pacote fiscal e mercado reage",
-      "source": "CNN Brasil",
-      "category": "Economía",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/mu9mk7TuCrM",
-      "publishedAt": "2026-11-20",
+      "url": "https://www.youtube.com/shorts/rQXrEoTChYE",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
