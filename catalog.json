@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-22T08:00:24.735Z",
-  "totalArchiveVideos": 1381,
+  "generatedAt": "2026-11-22T08:27:47.994Z",
+  "totalArchiveVideos": 1383,
   "count": 500,
   "videos": [
     {
@@ -28,6 +28,30 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/GU2kFfATl_0",
       "publishedAt": "2026-11-20",
+      "durationSeconds": null
+    },
+    {
+      "id": "2HwZWcA21Xg",
+      "title": "New COP31 draft deal tabled as countries scramble to salvage climate talks",
+      "source": "Euronews English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/2HwZWcA21Xg",
+      "publishedAt": "2026-11-22",
+      "durationSeconds": null
+    },
+    {
+      "id": "Mg37iLTASjA",
+      "title": "How Colin Farrell turned 'celebrity on its head' for friend Emma Fogarty",
+      "source": "Sky News",
+      "category": "Actualidad",
+      "country": "gb",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Mg37iLTASjA",
+      "publishedAt": "2026-11-22",
       "durationSeconds": null
     },
     {
@@ -5967,30 +5991,6 @@
       "lang": "de",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/18V_ADhB9po",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "wmSuzXtf4RA",
-      "title": "Daten-Leak bei der Deutschen Bank #deutschebank #datenleck #finanztipps #nachrichten #tagesschau",
-      "source": "Tagesschau",
-      "category": "Economía",
-      "country": "de",
-      "lang": "de",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/wmSuzXtf4RA",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "E5otlcY2Q0A",
-      "title": "Polonia investiga la caída de dos misiles y un dron atribuidos a Rusia #shorts",
-      "source": "EL PAÍS",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/E5otlcY2Q0A",
       "publishedAt": "2026-11-20",
       "durationSeconds": null
     },
