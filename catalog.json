@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-23T05:16:18.811Z",
-  "totalArchiveVideos": 1646,
+  "generatedAt": "2026-11-23T05:50:24.793Z",
+  "totalArchiveVideos": 1647,
   "count": 500,
   "videos": [
     {
@@ -567,6 +567,18 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/DxvZO1U2U-E",
+      "publishedAt": "2026-11-22",
+      "durationSeconds": null
+    },
+    {
+      "id": "k7KlLIx1o5Q",
+      "title": "Canada’s PM appears next to Trump impersonator at press dinner | AJ Shorts",
+      "source": "Al Jazeera English",
+      "category": "Política",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/k7KlLIx1o5Q",
       "publishedAt": "2026-11-22",
       "durationSeconds": null
     },
@@ -4651,15 +4663,15 @@
       "durationSeconds": null
     },
     {
-      "id": "xU_rGWtQdns",
-      "title": "US tightens AI chip rules to stop China accessing them via overseas data centres",
-      "source": "Al Jazeera English",
-      "category": "Tecnología",
+      "id": "Llc3BYX74P4",
+      "title": "People 'push' Washington Monument to line up with White House",
+      "source": "Reuters",
+      "category": "Actualidad",
       "country": "global",
       "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/xU_rGWtQdns",
-      "publishedAt": "2026-11-20",
+      "url": "https://www.youtube.com/shorts/Llc3BYX74P4",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5955,18 +5967,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/vIaRZyfLjKg",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "k7KlLIx1o5Q",
-      "title": "Canada’s PM appears next to Trump impersonator at press dinner | AJ Shorts",
-      "source": "Al Jazeera English",
-      "category": "Política",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/k7KlLIx1o5Q",
       "publishedAt": null,
       "durationSeconds": null
     },
