@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-22T23:00:25.179Z",
-  "totalArchiveVideos": 1607,
+  "generatedAt": "2026-11-23T00:00:29.359Z",
+  "totalArchiveVideos": 1612,
   "count": 500,
   "videos": [
     {
@@ -29,6 +29,18 @@
       "url": "https://www.youtube.com/shorts/DEJr8XOn1_w",
       "publishedAt": "2026-11-22T12:27:04.000Z",
       "durationSeconds": 101
+    },
+    {
+      "id": "jWiJ-3BNV_w",
+      "title": "Topa contó cómo son sus shows sorpresa en cumpleaños de 15: “Caigo en la torta”",
+      "source": "LA NACION",
+      "category": "Actualidad",
+      "country": "ar",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/jWiJ-3BNV_w",
+      "publishedAt": "2026-11-22",
+      "durationSeconds": null
     },
     {
       "id": "luX8h7Kz4mY",
@@ -567,6 +579,18 @@
       "lang": "pt",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/QoflJjbSwqU",
+      "publishedAt": "2026-11-22",
+      "durationSeconds": null
+    },
+    {
+      "id": "aEryHdRhE1M",
+      "title": "Abdul El-Sayed says a healthcare  deal would be a ‘lasting legacy’ for Trump",
+      "source": "NBC News",
+      "category": "Política",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/aEryHdRhE1M",
       "publishedAt": "2026-11-22",
       "durationSeconds": null
     },
@@ -4843,63 +4867,51 @@
       "durationSeconds": null
     },
     {
-      "id": "drib3qSTak8",
-      "title": "California man found guilty of starting Palisades Fire",
-      "source": "NBC News",
+      "id": "Bli45ApQkOY",
+      "title": "Mystery of the red stream in Turkiye",
+      "source": "Al Jazeera English",
       "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/drib3qSTak8",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "ABxSsKi1nrk",
-      "title": "Father of fallen Marine is against Trump’s proposed arch",
-      "source": "Associated Press",
-      "category": "Política",
       "country": "global",
       "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/ABxSsKi1nrk",
-      "publishedAt": "2026-11-20",
+      "url": "https://www.youtube.com/shorts/Bli45ApQkOY",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
-      "id": "0zWL200ohX8",
-      "title": "Trump introduces 'most powerful man in the world,' Stephen Miller",
-      "source": "CNN",
-      "category": "Política",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/0zWL200ohX8",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "NUnlYiSCCEc",
-      "title": "Inside a Rohingya Camp After a Genocide Ruling",
-      "source": "The New York Times",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/NUnlYiSCCEc",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "uF-f0E1McwY",
-      "title": "“Todos mentimos para no herir al que queremos”: Paula Klein en Conversaciones",
+      "id": "XrkqzKmarOw",
+      "title": "Topa habló de la paternidad y del duelo por Titi: “El vacío es muy grande en mi casa”",
       "source": "LA NACION",
       "category": "Actualidad",
       "country": "ar",
       "lang": "es",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/uF-f0E1McwY",
-      "publishedAt": "2026-11-20",
+      "url": "https://www.youtube.com/shorts/XrkqzKmarOw",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "RgiYL_IO9d0",
+      "title": "Encontro trilateral: Foco é impedir novas potências nucleares | FORA DA ORDEM",
+      "source": "CNN Brasil",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/RgiYL_IO9d0",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "J_gHg0OH0w4",
+      "title": "Lion on the loose in Turkiye sparks fear among residents",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/J_gHg0OH0w4",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5955,18 +5967,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/LHbnHrZHIcg",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "aEryHdRhE1M",
-      "title": "Abdul El-Sayed says a healthcare  deal would be a ‘lasting legacy’ for Trump",
-      "source": "NBC News",
-      "category": "Política",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/aEryHdRhE1M",
       "publishedAt": null,
       "durationSeconds": null
     },
