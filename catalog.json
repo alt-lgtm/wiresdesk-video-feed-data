@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-23T00:00:29.359Z",
-  "totalArchiveVideos": 1612,
+  "generatedAt": "2026-11-23T00:23:26.835Z",
+  "totalArchiveVideos": 1616,
   "count": 500,
   "videos": [
     {
@@ -579,6 +579,18 @@
       "lang": "pt",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/QoflJjbSwqU",
+      "publishedAt": "2026-11-22",
+      "durationSeconds": null
+    },
+    {
+      "id": "LHbnHrZHIcg",
+      "title": "Dozens drown as boat capsizes in Nigeria en route to funeral | AJ #shorts",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/LHbnHrZHIcg",
       "publishedAt": "2026-11-22",
       "durationSeconds": null
     },
@@ -4819,51 +4831,51 @@
       "durationSeconds": null
     },
     {
-      "id": "4svjfINtJlk",
-      "title": "Europa fica de fora de encontro entre Trump, Xi e Putin e gera preocupação | FORA DA ORDEM",
-      "source": "CNN Brasil",
-      "category": "Política",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/4svjfINtJlk",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "Zl_P5bB4nGU",
-      "title": "COP31 deal stalls as nations struggle to agree on climate plan",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/Zl_P5bB4nGU",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "oOpQ0aOVqHs",
-      "title": "Alexander Zverev faces fresh lawsuit from ex-girlfriend | DW News",
-      "source": "DW News",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/oOpQ0aOVqHs",
-      "publishedAt": "2026-11-20",
-      "durationSeconds": null
-    },
-    {
-      "id": "5T_KyZbrOQo",
-      "title": "Stocks plunge on Anthropic amid tech fears",
+      "id": "5RyfVopGS3A",
+      "title": "Iowa deputies use Taser on pet kangaroo that escaped from its pen",
       "source": "ABC News",
       "category": "Actualidad",
       "country": "us",
       "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/5T_KyZbrOQo",
-      "publishedAt": "2026-11-20",
+      "url": "https://www.youtube.com/shorts/5RyfVopGS3A",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "LPnlqlcBpac",
+      "title": "Can peace survive an age of hard power? | The Art of Negotiation #shorts",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/LPnlqlcBpac",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "gdI35BvF0E4",
+      "title": "Delta flights delayed nationwide",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/gdI35BvF0E4",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "pk_61JC0OXs",
+      "title": "COP31 ends without agreement as countries reject climate deal",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/pk_61JC0OXs",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5955,18 +5967,6 @@
       "lang": "fr",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/08cQ57_C5PE",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "LHbnHrZHIcg",
-      "title": "Dozens drown as boat capsizes in Nigeria en route to funeral | AJ #shorts",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/LHbnHrZHIcg",
       "publishedAt": null,
       "durationSeconds": null
     },
