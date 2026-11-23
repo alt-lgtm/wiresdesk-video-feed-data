@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-23T04:30:20.159Z",
-  "totalArchiveVideos": 1643,
+  "generatedAt": "2026-11-23T04:40:18.376Z",
+  "totalArchiveVideos": 1644,
   "count": 500,
   "videos": [
     {
@@ -579,6 +579,18 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/y9dtq3LgPQk",
+      "publishedAt": "2026-11-22",
+      "durationSeconds": null
+    },
+    {
+      "id": "9auXGHiD6v4",
+      "title": "Gadi Eisenkot convida o partido Likud de Netanyahu para negociações de coligação",
+      "source": "Euronews Português",
+      "category": "Actualidad",
+      "country": "pt",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/9auXGHiD6v4",
       "publishedAt": "2026-11-22",
       "durationSeconds": null
     },
@@ -4663,15 +4675,15 @@
       "durationSeconds": null
     },
     {
-      "id": "MfTezzOFCWQ",
-      "title": "Gen Z protests sweep Europe over wars, rising costs and climate | AJ #shorts",
+      "id": "3aDBU_-ZRwY",
+      "title": "Child rescued in Ukraine after Russian drone attack kills 10",
       "source": "Al Jazeera English",
-      "category": "Actualidad",
+      "category": "Sociedad",
       "country": "global",
       "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/MfTezzOFCWQ",
-      "publishedAt": "2026-11-20",
+      "url": "https://www.youtube.com/shorts/3aDBU_-ZRwY",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5955,18 +5967,6 @@
       "lang": "es",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/cvL5midRvEE",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "9auXGHiD6v4",
-      "title": "Gadi Eisenkot convida o partido Likud de Netanyahu para negociações de coligação",
-      "source": "Euronews Português",
-      "category": "Actualidad",
-      "country": "pt",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/9auXGHiD6v4",
       "publishedAt": null,
       "durationSeconds": null
     },
