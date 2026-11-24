@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-24T05:26:18.163Z",
-  "totalArchiveVideos": 2128,
+  "generatedAt": "2026-11-24T06:00:29.921Z",
+  "totalArchiveVideos": 2133,
   "count": 500,
   "videos": [
     {
@@ -91,27 +91,63 @@
       "durationSeconds": null
     },
     {
-      "id": "3u2OOruyGBI",
-      "title": "Catherine Fulop regresó a Venezuela después de 14 años",
-      "source": "LA NACION",
+      "id": "Apm0K9huWuU",
+      "title": "¡YA ESTÁ LIBRE! ICE libera a Vera Dijkmans tras 11 días detenida",
+      "source": "Azteca Noticias",
       "category": "Actualidad",
-      "country": "ar",
+      "country": "mx",
       "lang": "es",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/3u2OOruyGBI",
-      "publishedAt": "2026-11-22",
+      "url": "https://www.youtube.com/shorts/Apm0K9huWuU",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
-      "id": "hXuuPUisPRQ",
-      "title": "Major escalations in Iran and Ukraine conflicts",
-      "source": "NBC News",
+      "id": "0BBFWUqqZXc",
+      "title": "Ernestina Godoy admitió que no hay orden de aprehensión contra Guadalupe Taddei",
+      "source": "Azteca Noticias",
       "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/0BBFWUqqZXc",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "NlVB3_9BgJY",
+      "title": "Nvidia employee hugs Jensen Huang after comeback speech",
+      "source": "CNN",
+      "category": "Economía",
       "country": "us",
       "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/hXuuPUisPRQ",
-      "publishedAt": "2026-11-22",
+      "url": "https://www.youtube.com/shorts/NlVB3_9BgJY",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "S72Y17F-oEE",
+      "title": "Strangers rescue woman from wild turkey chase",
+      "source": "NBC News",
+      "category": "Sociedad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/S72Y17F-oEE",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "kFxw3ylhreM",
+      "title": "Sen. Warren: ‘Stronger’ urgency to investigate Jensen Huang after Nvidia comeback",
+      "source": "CNN",
+      "category": "Economía",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/kFxw3ylhreM",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5967,42 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/vSXTbtv2_cw",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "3oJKXU-8_Fg",
-      "title": "Gas pipeline fire shoots flames into the air in Alabama",
-      "source": "NBC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/3oJKXU-8_Fg",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "wc0_xSLc_OU",
-      "title": "Drone strike damages Russian ship in Benghazi, say Libyan officials | DW News",
-      "source": "DW News",
-      "category": "Sociedad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/wc0_xSLc_OU",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "P7bmuW8R-ac",
-      "title": "Why Americans are struggling to afford prescription medicines",
-      "source": "Al Jazeera English",
-      "category": "Cultura",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/P7bmuW8R-ac",
       "publishedAt": null,
       "durationSeconds": null
     }
