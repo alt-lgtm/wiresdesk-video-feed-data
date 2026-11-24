@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-24T09:00:28.463Z",
-  "totalArchiveVideos": 2164,
+  "generatedAt": "2026-11-24T09:26:18.400Z",
+  "totalArchiveVideos": 2169,
   "count": 500,
   "videos": [
     {
@@ -184,6 +184,66 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/ff1qDHUzuIo",
       "publishedAt": "2026-11-23",
+      "durationSeconds": null
+    },
+    {
+      "id": "PVo9YvuH5n8",
+      "title": "La France veut sont stock de terres rares",
+      "source": "Franceinfo",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/PVo9YvuH5n8",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "-l7PxbWwNU8",
+      "title": "Pilotprojekt der DB: Bodycams bei Sicherheitskontrollen  | #db #bodycam #kontrolle",
+      "source": "ZDFheute",
+      "category": "Actualidad",
+      "country": "de",
+      "lang": "de",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/-l7PxbWwNU8",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "rrZkvN9q1RM",
+      "title": "Singapore investigating whether Megaspeed broke laws",
+      "source": "Reuters",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/rrZkvN9q1RM",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "ruIpNUa_w84",
+      "title": "Nvidia employees cheer and applaud as Jensen Huang returns to office as CEO. #Nvidia #BBCNews",
+      "source": "BBC News",
+      "category": "Economía",
+      "country": "gb",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/ruIpNUa_w84",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "6HkAIKyDQVE",
+      "title": "Iowans split on toxic explosives detonation",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/6HkAIKyDQVE",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5943,66 +6003,6 @@
       "lang": "it",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/qL-woRoTstc",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "QDOsaTb8qUs",
-      "title": "\"Defence and deterrence in the Euro Atlantic is NATO's responsibility\"",
-      "source": "Euronews English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/QDOsaTb8qUs",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "TpH3mXZ3rdo",
-      "title": "La gauche française, entre divisions et réconciliations",
-      "source": "Le Monde",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/TpH3mXZ3rdo",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "YsBlgnco4X8",
-      "title": "Trump signals openness to working with El-Sayed on healthcare",
-      "source": "NBC News",
-      "category": "Política",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/YsBlgnco4X8",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "bWPCMCnvfps",
-      "title": "Chaos at Manchester concert from suspected tear gas",
-      "source": "CNN",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/bWPCMCnvfps",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "Gpb_hP-JpW0",
-      "title": "🛥️ Italia paga millones para mantener un superyate de 530 millones 🇮🇹💶",
-      "source": "El Confidencial",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/Gpb_hP-JpW0",
       "publishedAt": null,
       "durationSeconds": null
     }
