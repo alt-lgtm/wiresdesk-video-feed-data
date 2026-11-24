@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-24T23:00:19.598Z",
-  "totalArchiveVideos": 2570,
+  "generatedAt": "2026-11-24T23:30:18.378Z",
+  "totalArchiveVideos": 2577,
   "count": 500,
   "videos": [
     {
@@ -64,6 +64,30 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/7wEaKXtDKR4",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "BBnhy5aQlZU",
+      "title": "Armed men hold more than two dozen hostages at supermarket in Colombia",
+      "source": "CNN",
+      "category": "Economía",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/BBnhy5aQlZU",
+      "publishedAt": "2026-11-24",
+      "durationSeconds": null
+    },
+    {
+      "id": "bvOc48UJjU4",
+      "title": "Así funciona el voto por correo en los países de Iberoamérica: no hay cadena de custodia",
+      "source": "ESdiario TV",
+      "category": "Actualidad",
+      "country": "es",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/bvOc48UJjU4",
+      "publishedAt": "2026-11-24",
       "durationSeconds": null
     },
     {
@@ -1732,6 +1756,66 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/ff1qDHUzuIo",
       "publishedAt": "2026-11-23",
+      "durationSeconds": null
+    },
+    {
+      "id": "s2X5qCMxlHc",
+      "title": "Justiça condena 2 engenheiros por incêndio no Ninho do Urubu",
+      "source": "GloboNews",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/s2X5qCMxlHc",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "HEM3G3PfIgg",
+      "title": "Chinese tech giant Huawei convicted of federal charges",
+      "source": "NBC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/HEM3G3PfIgg",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "klU0kIxZes8",
+      "title": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
+      "source": "BBC News",
+      "category": "Economía",
+      "country": "gb",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/klU0kIxZes8",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "agJU8MePc2g",
+      "title": "Mobilisation lycéenne: LFI n’a “aucune responsabilité” dans les violences, affirme Manuel Bompard",
+      "source": "BFMTV",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/agJU8MePc2g",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "rT1okkSUEu8",
+      "title": "El verdadero motivo del mal rollo entre María Patiño y Marta Riesco en \"El Sótano Queen\" De TEN",
+      "source": "ESdiario TV",
+      "category": "Actualidad",
+      "country": "es",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/rT1okkSUEu8",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5919,90 +6003,6 @@
       "lang": "pt",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/WigbivUbR7w",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "zNxB67xAf7w",
-      "title": "Imagens mostram passageiros desesperados após forro de estação de metrô cair no RJ",
-      "source": "GloboNews",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/zNxB67xAf7w",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "49kTbCXVT6g",
-      "title": "Qatar steps up mediation as US and Iran face renewed confrontation",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/49kTbCXVT6g",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "sfoW0KOh1u8",
-      "title": "Gas prices are plunging, but for how long?",
-      "source": "CNN",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/sfoW0KOh1u8",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "yLqyktiSMLw",
-      "title": "Amazon delivery drone crashes into house near Detroit",
-      "source": "ABC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/yLqyktiSMLw",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "QZsx1LyD1wQ",
-      "title": "Court clears way for U.S. Army to detonate unstable bomb-making chemicals",
-      "source": "ABC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/QZsx1LyD1wQ",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "aXEekmPDoD0",
-      "title": "Reports: Russia ready to launch nuclear-capable satellite into space | DW  News",
-      "source": "DW News",
-      "category": "Ciencia",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/aXEekmPDoD0",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "G8dvdkfCims",
-      "title": "Turns out it wasn’t a lion afterall",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/G8dvdkfCims",
       "publishedAt": null,
       "durationSeconds": null
     }
