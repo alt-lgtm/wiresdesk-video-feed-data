@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-24T04:52:25.597Z",
-  "totalArchiveVideos": 2124,
+  "generatedAt": "2026-11-24T05:26:18.163Z",
+  "totalArchiveVideos": 2128,
   "count": 500,
   "videos": [
     {
@@ -112,6 +112,54 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/hXuuPUisPRQ",
       "publishedAt": "2026-11-22",
+      "durationSeconds": null
+    },
+    {
+      "id": "gqc1goEyA_o",
+      "title": "Moment: Nvidia employees celebrate the return of Jensen Huang | DW News",
+      "source": "DW News",
+      "category": "Economía",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/gqc1goEyA_o",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "XratlY8B6HM",
+      "title": "ATENTADO EN COLOMBIA: Explosivos sacuden sede de la Gobernación del Meta",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/XratlY8B6HM",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "6n5jULeT7pQ",
+      "title": "Quel est le calendrier de l'élection présidentielle ?",
+      "source": "Franceinfo",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/6n5jULeT7pQ",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "6xgLs2Zm-EY",
+      "title": "Cincinnati Zoo reopens Hippo Cove after making changes",
+      "source": "NBC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/6xgLs2Zm-EY",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5955,54 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/P7bmuW8R-ac",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "Vi2pIhGCCb0",
-      "title": "El ejército de bulldogs en la CDMX que busca hacer historia",
-      "source": "Azteca Noticias",
-      "category": "Actualidad",
-      "country": "mx",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/Vi2pIhGCCb0",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "bS3wR8pxAvk",
-      "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/bS3wR8pxAvk",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "HUzpiJhZTxk",
-      "title": "Israeli forces continue house demolitions in southern Lebanon",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/HUzpiJhZTxk",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "CGgW9u1aM3w",
-      "title": "America Is Losing the War Against Measles",
-      "source": "CNN",
-      "category": "Salud",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/CGgW9u1aM3w",
       "publishedAt": null,
       "durationSeconds": null
     }
