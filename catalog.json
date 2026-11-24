@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-24T09:59:22.168Z",
-  "totalArchiveVideos": 2174,
+  "generatedAt": "2026-11-24T10:30:24.536Z",
+  "totalArchiveVideos": 2179,
   "count": 500,
   "videos": [
     {
@@ -64,6 +64,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/z0eGjLu00uk",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "z8epAmzeMo0",
+      "title": "Is the Rassie Erasmus novelty wearing thin with Springbok fans? | Telegraph Rugby Podcast",
+      "source": "The Telegraph",
+      "category": "Deportes",
+      "country": "gb",
+      "lang": "en",
+      "kind": "opinion",
+      "url": "https://www.youtube.com/shorts/z8epAmzeMo0",
+      "publishedAt": "2026-11-24",
       "durationSeconds": null
     },
     {
@@ -172,6 +184,54 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/ff1qDHUzuIo",
       "publishedAt": "2026-11-23",
+      "durationSeconds": null
+    },
+    {
+      "id": "C-AJSxRyq4w",
+      "title": "Guerre au Moyen-Orient: un Britannique traverse le détroit d'Ormuz à la nage",
+      "source": "BFMTV",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/C-AJSxRyq4w",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "_SsU3p58og4",
+      "title": "Exclusive: EU migration pact delivers just 1,283 asylum relocations in first year",
+      "source": "Euronews English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/_SsU3p58og4",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "Th9C3lR8L1s",
+      "title": "Russian attack in Ukraine's Zaporizhzhia kills multiple",
+      "source": "Reuters",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Th9C3lR8L1s",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "9wDm1Qitd5o",
+      "title": "'I cried for hours after losing UK university place'",
+      "source": "BBC News",
+      "category": "Actualidad",
+      "country": "gb",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/9wDm1Qitd5o",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5943,66 +6003,6 @@
       "lang": "es",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/yOppEod8SuQ",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "6GEChQVl6w8",
-      "title": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/6GEChQVl6w8",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "ADgAPdgdo_g",
-      "title": "EU walking away from climate deal at COP31 is \"the right decision\"",
-      "source": "Euronews English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/ADgAPdgdo_g",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "b_3s0Q1ouW4",
-      "title": "🔒 El efecto 'bukelismo' en América Latina: ¿solución definitiva contra el crimen? 🌎⚖️",
-      "source": "El Confidencial",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/b_3s0Q1ouW4",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "z0b4Y-sRUVc",
-      "title": "Les aéroports solidaires des Restos du Cœur",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/z0b4Y-sRUVc",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "Kw9-raRpFLA",
-      "title": "Peut-on décaler les dates de l'élection présidentielle ?",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/Kw9-raRpFLA",
       "publishedAt": null,
       "durationSeconds": null
     }
