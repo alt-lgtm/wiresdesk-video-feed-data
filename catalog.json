@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-24T22:00:19.661Z",
-  "totalArchiveVideos": 2556,
+  "generatedAt": "2026-11-24T22:30:18.765Z",
+  "totalArchiveVideos": 2564,
   "count": 500,
   "videos": [
     {
@@ -64,6 +64,30 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/7wEaKXtDKR4",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "ju1RtdQUIPU",
+      "title": "OQTF: Manuel Bompard veut remplacer les centres de rétention par des structures d'accompagnement",
+      "source": "BFMTV",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/ju1RtdQUIPU",
+      "publishedAt": "2026-11-24",
+      "durationSeconds": null
+    },
+    {
+      "id": "xDL9iKHsVEc",
+      "title": "La jefa de los Rocho tumba a Sánchez ante Pedraz: un nexo del PSOE pidió eliminar a la jueza Biedma",
+      "source": "ESdiario TV",
+      "category": "Política",
+      "country": "es",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/xDL9iKHsVEc",
+      "publishedAt": "2026-11-24",
       "durationSeconds": null
     },
     {
@@ -1672,6 +1696,78 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/ff1qDHUzuIo",
       "publishedAt": "2026-11-23",
+      "durationSeconds": null
+    },
+    {
+      "id": "kd5nw5Nrzcc",
+      "title": "Vi0lences policières : Rémi a perdu ses dents lors d'une charge de CRS",
+      "source": "Franceinfo",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/kd5nw5Nrzcc",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "sLCRWxaQ8H0",
+      "title": "Trump offers Thanksgiving pardons for turkeys Freedom and Feathers",
+      "source": "Associated Press",
+      "category": "Política",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/sLCRWxaQ8H0",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "GgZqF6GfwAQ",
+      "title": "Trump pardons Thanksgiving turkeys. #BBCNews",
+      "source": "BBC News",
+      "category": "Política",
+      "country": "gb",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/GgZqF6GfwAQ",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "iuf72SETpt8",
+      "title": "U.S. Army recommends evacuations for controlled Iowa munitions explosion",
+      "source": "ABC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/iuf72SETpt8",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "E20wvx2nNsM",
+      "title": "Otro golpe para Sánchez: Bruselas amenaza con expediente si no controla el gasto público",
+      "source": "ESdiario TV",
+      "category": "Política",
+      "country": "es",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/E20wvx2nNsM",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "gvarVQIy78Y",
+      "title": "Politicians react to Jensen Huang’s return as Nvidia CEO",
+      "source": "CNN",
+      "category": "Economía",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/gvarVQIy78Y",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5907,102 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/_CrJv4dIauY",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "IlRx634GCQA",
-      "title": "Trump delays Iowa Army hazardous material detonation",
-      "source": "CNN",
-      "category": "Política",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/IlRx634GCQA",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "ib8vi0da9bo",
-      "title": "What’s inside the government’s newly released Bigfoot files?",
-      "source": "CNN",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/ib8vi0da9bo",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "eqPfiVtV9vk",
-      "title": "EXIGEN JUSTICIA: Vecinos bloquean Avenida Tláhuac para pedir la liberación de Freddy",
-      "source": "Azteca Noticias",
-      "category": "Actualidad",
-      "country": "mx",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/eqPfiVtV9vk",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "e_y8lm_pqZQ",
-      "title": "Blind skateboarder shows what he can do with an impressive demonstration",
-      "source": "ABC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/e_y8lm_pqZQ",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "PQeVusEp8d8",
-      "title": "GULLIT BORRACHO Y ACOSADOR | Acusan al “Gullit” Peña de tocar sin consentimiento a exregidora",
-      "source": "Azteca Noticias",
-      "category": "Actualidad",
-      "country": "mx",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/PQeVusEp8d8",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "JZ3ghgIPU0E",
-      "title": "Expert shares tips on how to be more charismatic in groups",
-      "source": "ABC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/JZ3ghgIPU0E",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "23DxAlw9poE",
-      "title": "BAJO LA LUPA: Godoy responde por investigaciones sobre presuntas irregularidades en el INE",
-      "source": "Azteca Noticias",
-      "category": "Actualidad",
-      "country": "mx",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/23DxAlw9poE",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "4zL6y9lpAUA",
-      "title": "¿Por qué critican su confesión como embalsamadora?",
-      "source": "Milenio",
-      "category": "Actualidad",
-      "country": "mx",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/4zL6y9lpAUA",
       "publishedAt": null,
       "durationSeconds": null
     }
