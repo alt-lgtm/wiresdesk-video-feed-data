@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-24T04:00:18.015Z",
-  "totalArchiveVideos": 2116,
+  "generatedAt": "2026-11-24T04:20:18.244Z",
+  "totalArchiveVideos": 2119,
   "count": 500,
   "videos": [
     {
@@ -124,6 +124,42 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/tzaWrwoZ2nI",
       "publishedAt": "2026-11-22",
+      "durationSeconds": null
+    },
+    {
+      "id": "RbMIeZGIpXQ",
+      "title": "Petrobras prevê investir mais de R$ 700 bilhões entre 2027 e 2031, com foco em petróleo e gás",
+      "source": "GloboNews",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/RbMIeZGIpXQ",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "utdyYQCEtJ4",
+      "title": "Ukrainian boy rescued after Russian drone attack | DW News",
+      "source": "DW News",
+      "category": "Sociedad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/utdyYQCEtJ4",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "t_-AyXtaUB8",
+      "title": "Belgium's government on brink of collapse amid austerity protests",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/t_-AyXtaUB8",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5967,42 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/8vDen6GFVFE",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "df1oVn9pbd4",
-      "title": "Peru's transport workers turn to armoured buses as crime persists",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/df1oVn9pbd4",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "gqHRXz-HQYw",
-      "title": "Un hombre atacó al empleado de un kiosco en Rosario porque no lo dejó usar el baño",
-      "source": "LA NACION",
-      "category": "Actualidad",
-      "country": "ar",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/gqHRXz-HQYw",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "XrmjeLyghrI",
-      "title": "La chicana de los hinchas de Boca a Francella en los festejos por la Sudamericana",
-      "source": "LA NACION",
-      "category": "Actualidad",
-      "country": "ar",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/XrmjeLyghrI",
       "publishedAt": null,
       "durationSeconds": null
     }
