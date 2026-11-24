@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-24T06:57:18.391Z",
-  "totalArchiveVideos": 2142,
+  "generatedAt": "2026-11-24T07:30:18.489Z",
+  "totalArchiveVideos": 2146,
   "count": 500,
   "videos": [
     {
@@ -55,15 +55,51 @@
       "durationSeconds": null
     },
     {
-      "id": "L-_8_2nao-I",
-      "title": "Trump impersonator ribs Carney at press dinner",
-      "source": "Reuters",
-      "category": "Política",
+      "id": "iiluNxeMDKw",
+      "title": "Espanha: habitação, imigração e polarização marcam campanha eleitoral das legislativas antecipadas",
+      "source": "Euronews Português",
+      "category": "Actualidad",
+      "country": "pt",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/iiluNxeMDKw",
+      "publishedAt": "2026-11-23",
+      "durationSeconds": null
+    },
+    {
+      "id": "ff1qDHUzuIo",
+      "title": "Rishi Sunak sets out the most immediate risks posed by AI",
+      "source": "Sky News",
+      "category": "Actualidad",
+      "country": "gb",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/ff1qDHUzuIo",
+      "publishedAt": "2026-11-23",
+      "durationSeconds": null
+    },
+    {
+      "id": "7b_f84oIlB0",
+      "title": "Cargo échoué : une journée décisive",
+      "source": "Franceinfo",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/7b_f84oIlB0",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "OaNVfe57G08",
+      "title": "Qatar PM meets US Secretary of State to revive US-Iran diplomacy",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
       "country": "global",
       "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/L-_8_2nao-I",
-      "publishedAt": "2026-11-22",
+      "url": "https://www.youtube.com/shorts/OaNVfe57G08",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5967,42 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/Llc3BYX74P4",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "aan2BVx7E8Q",
-      "title": "Soudan : des enfants mis en danger par la malnutrition",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/aan2BVx7E8Q",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "TlbHk_MRa0E",
-      "title": "UK's EU reset reignites Brexit debate as opposition criticises Burnham",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "opinion",
-      "url": "https://www.youtube.com/shorts/TlbHk_MRa0E",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "3aDBU_-ZRwY",
-      "title": "Child rescued in Ukraine after Russian drone attack kills 10",
-      "source": "Al Jazeera English",
-      "category": "Sociedad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/3aDBU_-ZRwY",
       "publishedAt": null,
       "durationSeconds": null
     }
