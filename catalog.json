@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-24T06:16:18.044Z",
-  "totalArchiveVideos": 2138,
+  "generatedAt": "2026-11-24T06:57:18.391Z",
+  "totalArchiveVideos": 2142,
   "count": 500,
   "videos": [
     {
@@ -64,6 +64,54 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/L-_8_2nao-I",
       "publishedAt": "2026-11-22",
+      "durationSeconds": null
+    },
+    {
+      "id": "mJxCwE1crN4",
+      "title": "Waymo halts San Francisco service ahead of severe weather",
+      "source": "NBC News",
+      "category": "Sociedad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/mJxCwE1crN4",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "44w5YKp9rKo",
+      "title": "Bayern bosses criticized over Musiala injury comments | DW News",
+      "source": "DW News",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/44w5YKp9rKo",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "8SyiKH3u30Y",
+      "title": "Determined squirrel doesn't give up on bird feeder",
+      "source": "ABC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/8SyiKH3u30Y",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "qdKViTtRbMI",
+      "title": "Nvidia reinstates Jensen Huang as CEO amid political backlash",
+      "source": "Al Jazeera English",
+      "category": "Economía",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/qdKViTtRbMI",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5955,54 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/3aDBU_-ZRwY",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "wRkmrvdCD04",
-      "title": "US Democrats reach 258 House seats, their biggest majority since 1992",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/wRkmrvdCD04",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "WT55ZMkDB3w",
-      "title": "Hailstorm sends furniture flying in Arkansas",
-      "source": "ABC News",
-      "category": "Sociedad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/WT55ZMkDB3w",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "L5ZPZa9ryvs",
-      "title": "New Manchester United head coach Pochettino suffers devastating loss to rival in debut",
-      "source": "CNN",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/L5ZPZa9ryvs",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "98zNCBJLwN0",
-      "title": "Pochettino’s nightmare start as Man U thrashed by Liverpool | AJ #shorts",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/98zNCBJLwN0",
       "publishedAt": null,
       "durationSeconds": null
     }
