@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-25T08:25:23.715Z",
-  "totalArchiveVideos": 2692,
+  "generatedAt": "2026-11-25T09:00:18.697Z",
+  "totalArchiveVideos": 2699,
   "count": 500,
   "videos": [
     {
@@ -40,6 +40,30 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/IoNLU891HjM",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "OoVgsIxlxck",
+      "title": "San Francisco braces for coastal flooding during Thanksgiving week",
+      "source": "Reuters",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/OoVgsIxlxck",
+      "publishedAt": "2026-11-25",
+      "durationSeconds": null
+    },
+    {
+      "id": "AKe4OEmFet8",
+      "title": "Viral chonky leopard is ‘too old to diet,’ says Chinese zoo",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/AKe4OEmFet8",
+      "publishedAt": "2026-11-25",
       "durationSeconds": null
     },
     {
@@ -1807,27 +1831,63 @@
       "durationSeconds": null
     },
     {
-      "id": "52YWrw-BgZQ",
-      "title": "Mãe de três filhos é morta a facadas três dias após pedir medida protetiva em SP",
-      "source": "g1",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/52YWrw-BgZQ",
-      "publishedAt": "2026-11-24",
-      "durationSeconds": null
-    },
-    {
-      "id": "45aIaLhyIOk",
-      "title": "La TVE de Sánchez señalada por la Junta Electoral con un expediente a Silvia Intxaurrondo",
-      "source": "ESdiario TV",
+      "id": "QbaNhoZXc0I",
+      "title": "Colau: \"Abascal de vicepresidente significa tener al ICE de Estados Unidos en España\" #shorts",
+      "source": "EL PAÍS",
       "category": "Política",
       "country": "es",
       "lang": "es",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/45aIaLhyIOk",
-      "publishedAt": "2026-11-24",
+      "url": "https://www.youtube.com/shorts/QbaNhoZXc0I",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "ep8NFtmKxgQ",
+      "title": "França: BYD negocia fábrica em Hambach para conquistar mercado europeu",
+      "source": "Euronews Português",
+      "category": "Economía",
+      "country": "pt",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/ep8NFtmKxgQ",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "EO9vIQHcmEU",
+      "title": "La fusée de la mission Shenzhou-24 a décollé, avec à son bord le premier astronaute pakistanais",
+      "source": "Le Monde",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/EO9vIQHcmEU",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "pk5jpDedklM",
+      "title": "BYD acelera su expansión en Europa y negocia la compra de una fábrica en Francia",
+      "source": "Euronews en español",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/pk5jpDedklM",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "V18iWDyOW_E",
+      "title": "California communities flooded amid historic king tides",
+      "source": "NBC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/V18iWDyOW_E",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5943,66 +6003,6 @@
       "lang": "pt",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/XSgycHxyDfM",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "MBwqMDJ0vxw",
-      "title": "Superlua acontece nesta terça-feira (24); saiba como observar o fenômeno",
-      "source": "g1",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/MBwqMDJ0vxw",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "0S0S3VGVgFc",
-      "title": "Stocks climb as Huang's return to Nvidia lifts investor optimism",
-      "source": "Euronews English",
-      "category": "Economía",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/0S0S3VGVgFc",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "LGhyYosO1LA",
-      "title": "Cheers as Jensen Huang returns to Nvidia HQ after being reinstated as CEO",
-      "source": "Euronews English",
-      "category": "Economía",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/LGhyYosO1LA",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "Cw9FJE58OQ4",
-      "title": "No heating or AC needed: Inside the French apartment block retaining heat from cooking and sunlight",
-      "source": "Euronews English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/Cw9FJE58OQ4",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "TEe-BygWJMY",
-      "title": "'Todo mundo briga e ninguém tem razão' no debate fiscal",
-      "source": "g1",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "opinion",
-      "url": "https://www.youtube.com/shorts/TEe-BygWJMY",
       "publishedAt": null,
       "durationSeconds": null
     }
