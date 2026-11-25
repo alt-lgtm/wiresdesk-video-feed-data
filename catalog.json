@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-25T06:30:18.440Z",
-  "totalArchiveVideos": 2679,
+  "generatedAt": "2026-11-25T06:59:18.514Z",
+  "totalArchiveVideos": 2682,
   "count": 500,
   "videos": [
     {
@@ -1888,6 +1888,42 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/oI6L1Zk7MMA",
       "publishedAt": "2026-11-24",
+      "durationSeconds": null
+    },
+    {
+      "id": "apgRn72OMI0",
+      "title": "'Train of Lights' returns in England",
+      "source": "ABC News",
+      "category": "Sociedad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/apgRn72OMI0",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "MmooInzlXwQ",
+      "title": "One year on, grief endures after Hong Kong fire",
+      "source": "Reuters",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/MmooInzlXwQ",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "u5Fh_-Uetpw",
+      "title": "Deux enfants découverts enfermés dans une cave",
+      "source": "Franceinfo",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/u5Fh_-Uetpw",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5967,42 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/FApv6l88gbE",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "ChUkj4ZAFMA",
-      "title": "Ações da Nvidia disparam e fecham em alta de 31% após volta de Jensen Huang.",
-      "source": "g1",
-      "category": "Economía",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/ChUkj4ZAFMA",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "56maq7LxnGc",
-      "title": "Fire in Zanzibar forces relocation",
-      "source": "Euronews English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/56maq7LxnGc",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "Cs7WdFMpVNM",
-      "title": "Feijóo dice que ha pedido a \"algunos miembros\" del PP que \"bajen el tono\"",
-      "source": "El Mundo",
-      "category": "Política",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/Cs7WdFMpVNM",
       "publishedAt": null,
       "durationSeconds": null
     }
