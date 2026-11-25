@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-25T03:00:27.757Z",
-  "totalArchiveVideos": 2639,
+  "generatedAt": "2026-11-25T03:30:18.554Z",
+  "totalArchiveVideos": 2644,
   "count": 500,
   "videos": [
     {
@@ -52,6 +52,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/z0eGjLu00uk",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "G3nhi8Axf_c",
+      "title": "Travel delays and storms hit U.S. ahead of holidays",
+      "source": "NBC News",
+      "category": "Sociedad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/G3nhi8Axf_c",
+      "publishedAt": "2026-11-24",
       "durationSeconds": null
     },
     {
@@ -1948,6 +1960,54 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/ff1qDHUzuIo",
       "publishedAt": "2026-11-23",
+      "durationSeconds": null
+    },
+    {
+      "id": "pj9MSzzQoo8",
+      "title": "What it costs to tell gay stories in China",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/pj9MSzzQoo8",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "porHQDOkyGE",
+      "title": "Jensen Huang denies Trump secured his return to Nvidia",
+      "source": "Al Jazeera English",
+      "category": "Economía",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/porHQDOkyGE",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "W5a1I39DB40",
+      "title": "Wisconsin reports first adult measles-related death",
+      "source": "NBC News",
+      "category": "Salud",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/W5a1I39DB40",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "iYTazxuLK58",
+      "title": "Could this backfire on Trump? | DW News",
+      "source": "DW News",
+      "category": "Política",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/iYTazxuLK58",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5943,66 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/Q23XRuE5lFQ",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "7b_f84oIlB0",
-      "title": "Cargo échoué : une journée décisive",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/7b_f84oIlB0",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "OaNVfe57G08",
-      "title": "Qatar PM meets US Secretary of State to revive US-Iran diplomacy",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/OaNVfe57G08",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "mJxCwE1crN4",
-      "title": "Waymo halts San Francisco service ahead of severe weather",
-      "source": "NBC News",
-      "category": "Sociedad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/mJxCwE1crN4",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "44w5YKp9rKo",
-      "title": "Bayern bosses criticized over Musiala injury comments | DW News",
-      "source": "DW News",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/44w5YKp9rKo",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "8SyiKH3u30Y",
-      "title": "Determined squirrel doesn't give up on bird feeder",
-      "source": "ABC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/8SyiKH3u30Y",
       "publishedAt": null,
       "durationSeconds": null
     }
