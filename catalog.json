@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-25T07:29:18.397Z",
-  "totalArchiveVideos": 2686,
+  "generatedAt": "2026-11-25T07:42:18.270Z",
+  "totalArchiveVideos": 2688,
   "count": 500,
   "videos": [
     {
@@ -1843,27 +1843,27 @@
       "durationSeconds": null
     },
     {
-      "id": "fUfw2nBgc6I",
-      "title": "COP31 chega ao fim sem acordo; entenda o que aconteceu",
-      "source": "g1",
+      "id": "BQhw0u9XtMQ",
+      "title": "Hungría y Ucrania abren una nueva etapa sin Orbán",
+      "source": "Euronews en español",
       "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
+      "country": "global",
+      "lang": "es",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/fUfw2nBgc6I",
-      "publishedAt": "2026-11-24",
+      "url": "https://www.youtube.com/shorts/BQhw0u9XtMQ",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
-      "id": "jGcYf1SFJDs",
-      "title": "Mort de Nahel: un procès pour meurtre ordonné contre le policier",
-      "source": "BFMTV",
+      "id": "78Mkwd_UqCg",
+      "title": "Six killed in plane crash off Mississippi coast",
+      "source": "CNN",
       "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
+      "country": "us",
+      "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/jGcYf1SFJDs",
-      "publishedAt": "2026-11-24",
+      "url": "https://www.youtube.com/shorts/78Mkwd_UqCg",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
