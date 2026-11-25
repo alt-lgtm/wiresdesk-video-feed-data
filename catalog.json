@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-25T05:30:22.554Z",
-  "totalArchiveVideos": 2669,
+  "generatedAt": "2026-11-25T05:58:18.041Z",
+  "totalArchiveVideos": 2672,
   "count": 500,
   "videos": [
     {
@@ -1888,6 +1888,42 @@
       "kind": "opinion",
       "url": "https://www.youtube.com/shorts/z8epAmzeMo0",
       "publishedAt": "2026-11-24",
+      "durationSeconds": null
+    },
+    {
+      "id": "IEPwJEO5XlQ",
+      "title": "¡Se habría quedado sin frenos! Vuelca camión con ocho toneladas de chatarra",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/IEPwJEO5XlQ",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "bHdqnz1U5FA",
+      "title": "New map shows Missouri also in path of toxic Iowa detonation",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/bHdqnz1U5FA",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "4tXhKp6Zoac",
+      "title": "Scattered boos heard as Miss Israel competes at Miss Universe",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/4tXhKp6Zoac",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5967,42 +6003,6 @@
       "lang": "fr",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/vlJw_hFaGgU",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "lRQL0EPkn6k",
-      "title": "Reproches e intervencionismo, lo que hablaron ayer sobre vivienda en el debate a ocho",
-      "source": "El Mundo",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "opinion",
-      "url": "https://www.youtube.com/shorts/lRQL0EPkn6k",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "3QpQaTL7gOQ",
-      "title": "Pakistani astronaut joins China space mission | DW News",
-      "source": "DW News",
-      "category": "Ciencia",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/3QpQaTL7gOQ",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "gJ5kOffK_TY",
-      "title": "Massachusetts town on high alert after owl attacks",
-      "source": "NBC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/gJ5kOffK_TY",
       "publishedAt": null,
       "durationSeconds": null
     }
