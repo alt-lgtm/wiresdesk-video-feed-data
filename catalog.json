@@ -2,22 +2,10 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-25T10:30:19.319Z",
-  "totalArchiveVideos": 2737,
+  "generatedAt": "2026-11-25T11:00:18.359Z",
+  "totalArchiveVideos": 2742,
   "count": 500,
   "videos": [
-    {
-      "id": "0AHJIw840jQ",
-      "title": "✈️ PLUS ULTRA suspende todos sus vuelos tras impagar 19 millones del rescate público 🚨💶",
-      "source": "El Confidencial",
-      "category": "Sociedad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/0AHJIw840jQ",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
     {
       "id": "tTTc6ySDzXI",
       "title": "🚇 El Gobierno prorroga in extremis los descuentos al transporte público para 2027 🎟️💶",
@@ -27,6 +15,18 @@
       "lang": "es",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/tTTc6ySDzXI",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "0AHJIw840jQ",
+      "title": "✈️ PLUS ULTRA suspende todos sus vuelos tras impagar 19 millones del rescate público 🚨💶",
+      "source": "El Confidencial",
+      "category": "Sociedad",
+      "country": "es",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/0AHJIw840jQ",
       "publishedAt": null,
       "durationSeconds": null
     },
@@ -64,6 +64,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/mqgoLy5eMEY",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "l_-WMAbcrzQ",
+      "title": "Carreta tomba e derruba carga de algodão de cima de viaduto na Marginal Tietê, em SP",
+      "source": "g1",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/l_-WMAbcrzQ",
+      "publishedAt": "2026-11-25",
       "durationSeconds": null
     },
     {
@@ -1735,63 +1747,51 @@
       "durationSeconds": null
     },
     {
-      "id": "WbgCJjjS_68",
-      "title": "‘Estava no lugar certo, na hora certa’, diz médico que enfrentou alagamento para salvar idoso",
-      "source": "GloboNews",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/WbgCJjjS_68",
-      "publishedAt": "2026-11-24",
-      "durationSeconds": null
-    },
-    {
-      "id": "ivUN2VtzXPc",
-      "title": "Após Câmara aprovar ajuste fiscal de Lula, Hugo Motta defende novas medidas ainda em 2026",
-      "source": "g1",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/ivUN2VtzXPc",
-      "publishedAt": "2026-11-24",
-      "durationSeconds": null
-    },
-    {
-      "id": "IMScXZULBhU",
-      "title": "Mulher é morta a facadas 3 dias após pedir medida protetiva em SP; ex é encontrado morto em motel",
-      "source": "GloboNews",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/IMScXZULBhU",
-      "publishedAt": "2026-11-24",
-      "durationSeconds": null
-    },
-    {
-      "id": "pudfPIU0aJ0",
-      "title": "La Roma? Volevo più rispetto. E rivela come è finito l'amore con Ilary Blasi",
-      "source": "RaiNews",
-      "category": "Actualidad",
-      "country": "it",
-      "lang": "it",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/pudfPIU0aJ0",
-      "publishedAt": "2026-11-24",
-      "durationSeconds": null
-    },
-    {
-      "id": "yPsByMptoW8",
-      "title": "Las islas Galápagos sufre graves inundaciones",
-      "source": "Euronews en español",
+      "id": "1diJMLM0DIM",
+      "title": "The Digital Breadcrumbs That Exposed a Paedophile Ring #TrueCrimeReports #Shorts #Podcast",
+      "source": "Al Jazeera English",
       "category": "Actualidad",
       "country": "global",
+      "lang": "en",
+      "kind": "opinion",
+      "url": "https://www.youtube.com/shorts/1diJMLM0DIM",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "2lz5CHIqR5g",
+      "title": "🎗️ PUIGDEMONT anuncia su REGRESO a España el sábado 12 de diciembre  🏛️🇪🇸",
+      "source": "El Confidencial",
+      "category": "Actualidad",
+      "country": "es",
       "lang": "es",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/yPsByMptoW8",
-      "publishedAt": "2026-11-24",
+      "url": "https://www.youtube.com/shorts/2lz5CHIqR5g",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "brcY7lQj-EY",
+      "title": "Driver killed after tanker truck crash",
+      "source": "NBC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/brcY7lQj-EY",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "jE8rP9vA-tE",
+      "title": "Gehirnchip erfolgreich implantiert: Schnittstelle zwischen Hirn und Computer | #medizin #forschung",
+      "source": "ZDFheute",
+      "category": "Tecnología",
+      "country": "de",
+      "lang": "de",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/jE8rP9vA-tE",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
