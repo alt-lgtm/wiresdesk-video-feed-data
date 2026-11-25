@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-25T04:28:18.047Z",
-  "totalArchiveVideos": 2655,
+  "generatedAt": "2026-11-25T05:00:29.168Z",
+  "totalArchiveVideos": 2659,
   "count": 500,
   "videos": [
     {
@@ -52,6 +52,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/z0eGjLu00uk",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "Zg3ArN8H2fY",
+      "title": "¡Agresión en Tecámac! Captan a hombre realizando disparos durante un enfrentamiento",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Zg3ArN8H2fY",
+      "publishedAt": "2026-11-24",
       "durationSeconds": null
     },
     {
@@ -1912,6 +1924,42 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/EmrsW4zfmIY",
       "publishedAt": "2026-11-24",
+      "durationSeconds": null
+    },
+    {
+      "id": "VaRSFpMYvwo",
+      "title": "Firefighters sent to hospital after Chicago home explosion",
+      "source": "NBC News",
+      "category": "Salud",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/VaRSFpMYvwo",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "L7fHp0XXQ2M",
+      "title": "Kilmar Abrego Garcia leaves the U.S. for Spain",
+      "source": "NBC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/L7fHp0XXQ2M",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "dtlPa4Ipb7M",
+      "title": "Iowa residents prepare for toxic lead plume",
+      "source": "NBC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/dtlPa4Ipb7M",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5955,54 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/6HkAIKyDQVE",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "OM6P1lnnrwE",
-      "title": "Turkeys chase woman down Massachusetts sidewalk",
-      "source": "ABC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/OM6P1lnnrwE",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "z3rOzm4LGKM",
-      "title": "Housing, immigration and polarisation, key Spanish concerns before November election",
-      "source": "Euronews English",
-      "category": "Política",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/z3rOzm4LGKM",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "uLXh4CFpotI",
-      "title": "Three soldiers from El Salvador killed in Haiti",
-      "source": "NBC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/uLXh4CFpotI",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "wc_mO5Y28ac",
-      "title": "Breaking down Jensen Huang's comeback at Nvidia",
-      "source": "Reuters",
-      "category": "Economía",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/wc_mO5Y28ac",
       "publishedAt": null,
       "durationSeconds": null
     }
