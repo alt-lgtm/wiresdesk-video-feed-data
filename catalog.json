@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-24T23:58:17.960Z",
-  "totalArchiveVideos": 2579,
+  "generatedAt": "2026-11-25T00:30:25.210Z",
+  "totalArchiveVideos": 2585,
   "count": 500,
   "videos": [
     {
@@ -64,6 +64,30 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/7wEaKXtDKR4",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "kjOPsTVhDWs",
+      "title": "Sujetos en moto intentan robarle una pizza a un joven en CdMx",
+      "source": "Milenio",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/kjOPsTVhDWs",
+      "publishedAt": "2026-11-24",
+      "durationSeconds": null
+    },
+    {
+      "id": "acZjDIPEHQ4",
+      "title": "1º filhote de ararinha-azul nascido em zoológico brasileiro é apresentado em SP",
+      "source": "GloboNews",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/acZjDIPEHQ4",
+      "publishedAt": "2026-11-24",
       "durationSeconds": null
     },
     {
@@ -1756,6 +1780,54 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/ff1qDHUzuIo",
       "publishedAt": "2026-11-23",
+      "durationSeconds": null
+    },
+    {
+      "id": "K3BANGgq72U",
+      "title": "VIDEO EXCLUSIVE: Kilmar Abrego Garcia self deporting to Spain",
+      "source": "ABC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/K3BANGgq72U",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "Yh0YnYhQiUI",
+      "title": "Saudi-led coalition air strikes kill 30 horses at riding club near Yemen's Sanaa",
+      "source": "Al Jazeera English",
+      "category": "Sociedad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Yh0YnYhQiUI",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "WAVjj6qzWsA",
+      "title": "¿Cómo operan las redes clandestinas de Irán?",
+      "source": "Milenio",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/WAVjj6qzWsA",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "KGL5CdD4Ioo",
+      "title": "Veja imagens da 'superlua' no mundo",
+      "source": "GloboNews",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/KGL5CdD4Ioo",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5931,78 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/Gk65Pcg_TgY",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "h-hncKrECzQ",
-      "title": "Ministro da Fazenda tenta distensionar relação com o mercado | CNN Brasil",
-      "source": "CNN Brasil",
-      "category": "Economía",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/h-hncKrECzQ",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "uG2MgehUj8I",
-      "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/uG2MgehUj8I",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "NNPV6jLr4Lk",
-      "title": "Flight tech glitches mount ahead of Thanksgiving travel",
-      "source": "ABC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/NNPV6jLr4Lk",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "2nymwllznRU",
-      "title": "Two bus drivers killed after head-on collision in Ohio",
-      "source": "ABC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/2nymwllznRU",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "K2rfoJEVPTI",
-      "title": "É #FAKE mensagem sobre 'Auxílio Reconstrução 2026'; golpe voltou a circular #g1 #fatooufake",
-      "source": "g1",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/K2rfoJEVPTI",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "LQtZfF946Eo",
-      "title": "Zeus the cat found alone on a London train",
-      "source": "ABC News",
-      "category": "Sociedad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/LQtZfF946Eo",
       "publishedAt": null,
       "durationSeconds": null
     }
