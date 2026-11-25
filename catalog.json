@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-25T07:42:18.270Z",
-  "totalArchiveVideos": 2688,
+  "generatedAt": "2026-11-25T08:25:23.715Z",
+  "totalArchiveVideos": 2692,
   "count": 500,
   "videos": [
     {
@@ -1831,15 +1831,51 @@
       "durationSeconds": null
     },
     {
-      "id": "nrYmjH9wAzg",
-      "title": "Nvidia: funcionários ovacionam regresso de Jensen Huang",
-      "source": "Euronews Português",
-      "category": "Economía",
-      "country": "pt",
-      "lang": "pt",
+      "id": "ItbWEw6eLLs",
+      "title": "Des adolescents dérobent une mini-pelle et occasionnent de nombreux dégâts sur le mobilier urbain",
+      "source": "BFMTV",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/nrYmjH9wAzg",
-      "publishedAt": "2026-11-24",
+      "url": "https://www.youtube.com/shorts/ItbWEw6eLLs",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "Pjrlq3KuBx8",
+      "title": "Messages r*cistes dans une école de police : une enquête ouverte",
+      "source": "Franceinfo",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Pjrlq3KuBx8",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "7aSSAoWqbTU",
+      "title": "El presidente De la Espriella anuncia el rescate de rehenes desde el lugar de los hechos",
+      "source": "El Mundo",
+      "category": "Política",
+      "country": "es",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/7aSSAoWqbTU",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "aWPbhxXvnkA",
+      "title": "New migrant groups set out for US border | DW News",
+      "source": "DW News",
+      "category": "Sociedad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/aWPbhxXvnkA",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5967,42 +6003,6 @@
       "lang": "pt",
       "kind": "opinion",
       "url": "https://www.youtube.com/shorts/TEe-BygWJMY",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "QWzyKuWZSVw",
-      "title": "\"Mastodonte\": ajuste fiscal severo demais pode levar à recessão",
-      "source": "g1",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/QWzyKuWZSVw",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "k58bGkfPV-Q",
-      "title": "🗣️ Vicente Vallés: \"Se apuran las últimas opciones de conseguir el voto\"",
-      "source": "Antena 3 Noticias",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/k58bGkfPV-Q",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "rzKu77OgmtM",
-      "title": "Antonella Marty: \"Personalidades que parecen darles una idea de orden\"| ESTABA YO PENSANDO #shorts",
-      "source": "EL PAÍS",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/rzKu77OgmtM",
       "publishedAt": null,
       "durationSeconds": null
     }
