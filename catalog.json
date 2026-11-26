@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-26T06:00:25.826Z",
-  "totalArchiveVideos": 3228,
+  "generatedAt": "2026-11-26T06:30:28.860Z",
+  "totalArchiveVideos": 3231,
   "count": 500,
   "videos": [
     {
@@ -28,6 +28,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/DUemcFpZoRI",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "Rw6KksPJPFE",
+      "title": "¿Capturar capos es suficiente para reducir la violencia en México?",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Rw6KksPJPFE",
+      "publishedAt": "2026-11-25",
       "durationSeconds": null
     },
     {
@@ -1648,6 +1660,30 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/_6bvt2SczXU",
       "publishedAt": "2026-11-25",
+      "durationSeconds": null
+    },
+    {
+      "id": "Pe5uPs3aQGA",
+      "title": "¡20 años sin el Gallo de Oro y su asesinato sigue sin resolverse!",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Pe5uPs3aQGA",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "8RToVNTVW2w",
+      "title": "Arizona deputies rescue bobcat trapped in car grille",
+      "source": "NBC News",
+      "category": "Sociedad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/8RToVNTVW2w",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5967,42 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/oJmMwPPeWmU",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "F5ocm0Sy0kA",
-      "title": "📚 ¿Cansados de hacer scroll? El auge de Substack y la tendencia del slow reading 📱🧠",
-      "source": "El Confidencial",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/F5ocm0Sy0kA",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "h5WGv6jzkcw",
-      "title": "🧠 ¿Saturado por el bombardeo político antes del 29N?📱🛑",
-      "source": "El Confidencial",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/h5WGv6jzkcw",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "jIqvgtfAo2c",
-      "title": "What has Europe done to attract researchers from the US?",
-      "source": "Euronews English",
-      "category": "Ciencia",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/jIqvgtfAo2c",
       "publishedAt": null,
       "durationSeconds": null
     }
