@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-26T02:55:18.105Z",
-  "totalArchiveVideos": 3198,
+  "generatedAt": "2026-11-26T03:30:28.534Z",
+  "totalArchiveVideos": 3208,
   "count": 500,
   "videos": [
     {
@@ -16,18 +16,6 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/irAcpejsPyQ",
       "publishedAt": "2026-11-25",
-      "durationSeconds": null
-    },
-    {
-      "id": "hyF31pn0i1s",
-      "title": "2.100 migrantes llegan a la isla de El Hierro, batiendo cifra récord de llegadas en un día #shorts",
-      "source": "EL PAÍS",
-      "category": "Sociedad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/hyF31pn0i1s",
-      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -52,6 +40,78 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/mqgoLy5eMEY",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "2_774iqONpk",
+      "title": "¡DEVUELVAN A CHANEL! Repartidor habría sustraído a una perrita en Montemorelos",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/2_774iqONpk",
+      "publishedAt": "2026-11-25",
+      "durationSeconds": null
+    },
+    {
+      "id": "OFfgQ4yeuYg",
+      "title": "EL GALLO DE ORO: La historia de Valentín Elizalde a 20 años de su asesinato",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/OFfgQ4yeuYg",
+      "publishedAt": "2026-11-25",
+      "durationSeconds": null
+    },
+    {
+      "id": "9wFj7tcoP3M",
+      "title": "La administración Trump aprobó nuevas tarifas comerciales para China, Brasil, Unión Europea, Japón",
+      "source": "Azteca Noticias",
+      "category": "Política",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/9wFj7tcoP3M",
+      "publishedAt": "2026-11-25",
+      "durationSeconds": null
+    },
+    {
+      "id": "i0JnCPKPfQI",
+      "title": "VOCES | ¡Dejaron a dos pequeños a su suerte!",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/i0JnCPKPfQI",
+      "publishedAt": "2026-11-25",
+      "durationSeconds": null
+    },
+    {
+      "id": "7olHkotsksU",
+      "title": "Assassinada no Cefet: em e-mail enviado um ano antes, Allane Predotti havia denunciado servidor",
+      "source": "GloboNews",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/7olHkotsksU",
+      "publishedAt": "2026-11-25",
+      "durationSeconds": null
+    },
+    {
+      "id": "ytXNtG9mF3Y",
+      "title": "Análise: Lula tenta ganhar tempo com sinais ao mercado | CNN Brasil",
+      "source": "CNN Brasil",
+      "category": "Economía",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/ytXNtG9mF3Y",
+      "publishedAt": "2026-11-25",
       "durationSeconds": null
     },
     {
@@ -1591,39 +1651,51 @@
       "durationSeconds": null
     },
     {
-      "id": "wWRh0j2vT6M",
-      "title": "Sgomberato campo Rom di Milano: prima dello sfratto siamo entrate nelle case di chi ha perso tutto",
-      "source": "Fanpage.it",
-      "category": "Actualidad",
-      "country": "it",
-      "lang": "it",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/wWRh0j2vT6M",
-      "publishedAt": "2026-11-25",
-      "durationSeconds": null
-    },
-    {
-      "id": "7YiGLTn2pMs",
-      "title": "Stomach-churning moment winds toss tourist on Patagonian footbridge",
-      "source": "ABC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/7YiGLTn2pMs",
-      "publishedAt": "2026-11-25",
-      "durationSeconds": null
-    },
-    {
-      "id": "OoVgsIxlxck",
-      "title": "San Francisco braces for coastal flooding during Thanksgiving week",
-      "source": "Reuters",
+      "id": "xe12QqBR-L8",
+      "title": "Many killed in tanker truck crash near Cairo | DW News",
+      "source": "DW News",
       "category": "Actualidad",
       "country": "global",
       "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/OoVgsIxlxck",
-      "publishedAt": "2026-11-25",
+      "url": "https://www.youtube.com/shorts/xe12QqBR-L8",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "mK2R2ZMJRxE",
+      "title": "Colombian president taunts arrested supermarket hostage-takers | AJ #shorts",
+      "source": "Al Jazeera English",
+      "category": "Economía",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/mK2R2ZMJRxE",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "Y53V7C6jdTg",
+      "title": "INSEGURIDAD CARRETERA: Localizan a joven atado de pies y manos en Puebla-Orizaba",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Y53V7C6jdTg",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "plKKFqD9aME",
+      "title": "FIFA turns to influencers to promote U17 World Cup | AJ #shorts",
+      "source": "Al Jazeera English",
+      "category": "Deportes",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/plKKFqD9aME",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5931,78 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/nMI0H3a7Slo",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "Zwwqu13ocOk",
-      "title": "🎙️ \"Si solo votaran los menores de 45 años, ganaría VOX\" 📊🗳️",
-      "source": "El Confidencial",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/Zwwqu13ocOk",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "SH__pRaROnw",
-      "title": "All hostages rescued after Colombian forces storm Cartagena supermarket",
-      "source": "Euronews English",
-      "category": "Economía",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/SH__pRaROnw",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "fqFn8DCk5iA",
-      "title": "La policía rescata a un perro abandonado dentro de una bolsa de basura en Massachusetts #shorts",
-      "source": "EL PAÍS",
-      "category": "Sociedad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/fqFn8DCk5iA",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "tPbizi-ouTk",
-      "title": "Passengers brace for Thanksgiving travel after outage chaos",
-      "source": "Reuters",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/tPbizi-ouTk",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "k6243VDIiFQ",
-      "title": "\"Ho scoperto di essere stata spiata”: la denuncia di Giorgia Linardi di Sea Watch",
-      "source": "Fanpage.it",
-      "category": "Actualidad",
-      "country": "it",
-      "lang": "it",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/k6243VDIiFQ",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "fY37uHcWe3U",
-      "title": "E. Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\"",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/fY37uHcWe3U",
       "publishedAt": null,
       "durationSeconds": null
     }
