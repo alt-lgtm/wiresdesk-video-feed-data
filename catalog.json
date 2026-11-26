@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-26T00:30:27.018Z",
-  "totalArchiveVideos": 3160,
+  "generatedAt": "2026-11-26T01:00:18.443Z",
+  "totalArchiveVideos": 3167,
   "count": 500,
   "videos": [
     {
@@ -40,6 +40,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/mqgoLy5eMEY",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "MplkgfDF7hc",
+      "title": "Santilli chicaneó en el Senado con una frase de Bullrich: \"Ahora el que las hace las paga\"",
+      "source": "LA NACION",
+      "category": "Política",
+      "country": "ar",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/MplkgfDF7hc",
+      "publishedAt": "2026-11-25",
       "durationSeconds": null
     },
     {
@@ -1564,6 +1576,78 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/yfK1MScAaKo",
       "publishedAt": "2026-11-24",
+      "durationSeconds": null
+    },
+    {
+      "id": "K8qT-nEqUmw",
+      "title": "Assunto do vídeo (ênfase palavras chave) | Nome do Programa",
+      "source": "GloboNews",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/K8qT-nEqUmw",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "ae6rjNTITyE",
+      "title": "ISIL blamed for multiple suicide attacks in Syria | AJ #shorts",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/ae6rjNTITyE",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "H8z2NP2go2M",
+      "title": "Excess capacity tariff: US unveils fresh duties on 14 nations | DW News",
+      "source": "DW News",
+      "category": "Economía",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/H8z2NP2go2M",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "jbiiGsPSkNM",
+      "title": "Mamdani to miss Saturday’s Macy’s parade due to surgery",
+      "source": "NBC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/jbiiGsPSkNM",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "8lUfAaQ6bTU",
+      "title": "¿BECARIOS, NO SICARIOS? Mario Delgado genera debate con su discurso sobre los jóvenes",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "opinion",
+      "url": "https://www.youtube.com/shorts/8lUfAaQ6bTU",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "Gn9_tgZZ0ZA",
+      "title": "Sudan's war spreads to Blue Nile as RSF drone attacks hit key areas",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Gn9_tgZZ0ZA",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5919,90 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/4tXhKp6Zoac",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "78_wk7hcOSI",
-      "title": "Thomas Markle indicted on child sex abuse material charges",
-      "source": "NBC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/78_wk7hcOSI",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "taYFJV9jZe0",
-      "title": "Ce village anglais veut quitter le Royaume-Uni",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/taYFJV9jZe0",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "b88GRRlMg7M",
-      "title": "Instagram is filled with sexualized AI slop of ‘Conan’ and bare feet",
-      "source": "CNN",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/b88GRRlMg7M",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "d0TdFWdXYJk",
-      "title": "'DWTS' crowns new winner",
-      "source": "ABC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/d0TdFWdXYJk",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "dxw1AnEKdQs",
-      "title": "¡Quiso tomar un atajo! Tráiler queda atorado en estación del Metrobús en CDMX",
-      "source": "Azteca Noticias",
-      "category": "Actualidad",
-      "country": "mx",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/dxw1AnEKdQs",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "oC6YZlFtzek",
-      "title": "¡Santa tiene competencia! Sydney Sweeney lanza su colección de lencería navideña",
-      "source": "Azteca Noticias",
-      "category": "Actualidad",
-      "country": "mx",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/oC6YZlFtzek",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "W1jcpko7hIg",
-      "title": "FIDEL CASTRO: una década tras la muerte del líder cubano #shorts",
-      "source": "EL PAÍS",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/W1jcpko7hIg",
       "publishedAt": null,
       "durationSeconds": null
     }
