@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-26T03:58:18.043Z",
-  "totalArchiveVideos": 3210,
+  "generatedAt": "2026-11-26T04:30:25.124Z",
+  "totalArchiveVideos": 3217,
   "count": 500,
   "videos": [
     {
@@ -40,6 +40,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/mqgoLy5eMEY",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "0CSjwOz3JZo",
+      "title": "FedEx plane veers off runway at Miami International Airport",
+      "source": "ABC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/0CSjwOz3JZo",
+      "publishedAt": "2026-11-25",
       "durationSeconds": null
     },
     {
@@ -1639,15 +1651,75 @@
       "durationSeconds": null
     },
     {
-      "id": "_68o3u3qmVk",
-      "title": "Var: plus d'un mois de pluie déversé en six heures",
-      "source": "BFMTV",
+      "id": "sPyV4g-cUUY",
+      "title": "Racecourse office blown away in Brazil | AJ #shorts",
+      "source": "Al Jazeera English",
       "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
+      "country": "global",
+      "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/_68o3u3qmVk",
-      "publishedAt": "2026-11-25",
+      "url": "https://www.youtube.com/shorts/sPyV4g-cUUY",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "IMYFzSBGvK4",
+      "title": "Former Vice President Al Gore buys Tennessee newspaper",
+      "source": "NBC News",
+      "category": "Política",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/IMYFzSBGvK4",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "5ItRydM12U4",
+      "title": "Así se vivió el 25N en América Latina: Mujeres toman calles #shorts",
+      "source": "EL PAÍS",
+      "category": "Actualidad",
+      "country": "es",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/5ItRydM12U4",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "kfK7ElDpefQ",
+      "title": "Mujeres marchan en CDMX contra la violencia en CDMX #shorts",
+      "source": "EL PAÍS",
+      "category": "Actualidad",
+      "country": "es",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/kfK7ElDpefQ",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "CvRaHugWDUo",
+      "title": "Powerful storms sweep U.S. coasts over holiday weekend",
+      "source": "NBC News",
+      "category": "Sociedad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/CvRaHugWDUo",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "LsHrcr6npCE",
+      "title": "Heavy traffic and severe weather disrupt Thanksgiving travel",
+      "source": "CNN",
+      "category": "Sociedad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/LsHrcr6npCE",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5931,78 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/vvknXkytUFE",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "42l3AhhOCZU",
-      "title": "💰 Los 15 millones que ganó Donald Trump tras impulsar el regreso de Jensen Huang a Nvidia 📈🇺🇸",
-      "source": "El Confidencial",
-      "category": "Economía",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/42l3AhhOCZU",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "EmDjiq8gGBY",
-      "title": "25N: Los datos engañosos sobre violencia de género en la campaña #shorts #elecciones",
-      "source": "EL PAÍS",
-      "category": "Política",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/EmDjiq8gGBY",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "_WgOgNXHYNU",
-      "title": "El nuevo vídeo de Marcos Llorente dándole caviar a su hija #shorts",
-      "source": "EL PAÍS",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/_WgOgNXHYNU",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "kao-B5WNJes",
-      "title": "Il consigliere di Fratelli d’Italia a Bergamo sulla violenza di genere: “Conseguenza del femminismo”",
-      "source": "Fanpage.it",
-      "category": "Actualidad",
-      "country": "it",
-      "lang": "it",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/kao-B5WNJes",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "EAOGbUeIziM",
-      "title": "Colau: \"Abascal de vicepresidente significa tener al ICE de Estados Unidos en España\" #shorts",
-      "source": "EL PAÍS",
-      "category": "Política",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/EAOGbUeIziM",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "yOqovwIyIhM",
-      "title": "Peter Magyar and Volodymyr Zelenskyy open new chapter in Ukraine-Hungary relations",
-      "source": "Euronews English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/yOqovwIyIhM",
       "publishedAt": null,
       "durationSeconds": null
     }
