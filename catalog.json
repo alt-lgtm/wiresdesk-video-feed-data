@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-26T02:00:28.478Z",
-  "totalArchiveVideos": 3189,
+  "generatedAt": "2026-11-26T02:22:22.288Z",
+  "totalArchiveVideos": 3195,
   "count": 500,
   "videos": [
     {
@@ -1636,6 +1636,78 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/AKe4OEmFet8",
       "publishedAt": "2026-11-25",
+      "durationSeconds": null
+    },
+    {
+      "id": "mmxfSalKVqs",
+      "title": "Mauricio Macri presenta un documental sobre su gestión de cara a las elecciones",
+      "source": "LA NACION",
+      "category": "Política",
+      "country": "ar",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/mmxfSalKVqs",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "iHq1ev99MZ8",
+      "title": "Toxic mining pollution threatens rivers in northern Thailand",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/iHq1ev99MZ8",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "dTlhv7Ky-GE",
+      "title": "¡NO ES IA! Captan a un pony viajando como copiloto en Acapulco",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/dTlhv7Ky-GE",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "9kCUBpSxZAM",
+      "title": "SIN TRAMPAS ELECTORALES: Lilly Téllez exige a Morena competir limpiamente en las urnas",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/9kCUBpSxZAM",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "i6jmroFromM",
+      "title": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
+      "source": "BBC News",
+      "category": "Actualidad",
+      "country": "gb",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/i6jmroFromM",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "Vk3VN1X-h1w",
+      "title": "Caixa estuda operação de socorro ao BRB em meio à crise do Banco Master",
+      "source": "GloboNews",
+      "category": "Economía",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Vk3VN1X-h1w",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5931,78 +6003,6 @@
       "lang": "pt",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/ep8NFtmKxgQ",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "EO9vIQHcmEU",
-      "title": "La fusée de la mission Shenzhou-24 a décollé, avec à son bord le premier astronaute pakistanais",
-      "source": "Le Monde",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/EO9vIQHcmEU",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "pk5jpDedklM",
-      "title": "BYD acelera su expansión en Europa y negocia la compra de una fábrica en Francia",
-      "source": "Euronews en español",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/pk5jpDedklM",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "V18iWDyOW_E",
-      "title": "California communities flooded amid historic king tides",
-      "source": "NBC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/V18iWDyOW_E",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "ItbWEw6eLLs",
-      "title": "Des adolescents dérobent une mini-pelle et occasionnent de nombreux dégâts sur le mobilier urbain",
-      "source": "BFMTV",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/ItbWEw6eLLs",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "Pjrlq3KuBx8",
-      "title": "Messages r*cistes dans une école de police : une enquête ouverte",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/Pjrlq3KuBx8",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "7aSSAoWqbTU",
-      "title": "El presidente De la Espriella anuncia el rescate de rehenes desde el lugar de los hechos",
-      "source": "El Mundo",
-      "category": "Política",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/7aSSAoWqbTU",
       "publishedAt": null,
       "durationSeconds": null
     }
