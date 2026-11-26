@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-26T07:25:18.303Z",
-  "totalArchiveVideos": 3248,
+  "generatedAt": "2026-11-26T08:00:18.381Z",
+  "totalArchiveVideos": 3250,
   "count": 500,
   "videos": [
     {
@@ -28,6 +28,30 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/DUemcFpZoRI",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "cMY0IxgmIYM",
+      "title": "Émilie König, propagandiste de l’État islamique, devant la justice",
+      "source": "Franceinfo",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/cMY0IxgmIYM",
+      "publishedAt": "2026-11-25",
+      "durationSeconds": null
+    },
+    {
+      "id": "xqSeK3D2J9o",
+      "title": "Merz defends record jump in German defense spending | DW News",
+      "source": "DW News",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/xqSeK3D2J9o",
+      "publishedAt": "2026-11-25",
       "durationSeconds": null
     },
     {
@@ -5979,30 +6003,6 @@
       "lang": "es",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/HJ9M7EzFPPA",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "HiXaHbNtD2U",
-      "title": "Trump set to unveil new tariffs despite midterms signal",
-      "source": "Reuters",
-      "category": "Economía",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/HiXaHbNtD2U",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "-2Cd_XDYBu8",
-      "title": "‘People are going hungry’: Guinea’s gold mining crackdown",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/-2Cd_XDYBu8",
       "publishedAt": null,
       "durationSeconds": null
     }
