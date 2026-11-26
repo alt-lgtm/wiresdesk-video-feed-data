@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-26T05:00:21.444Z",
-  "totalArchiveVideos": 3223,
+  "generatedAt": "2026-11-26T05:12:18.271Z",
+  "totalArchiveVideos": 3225,
   "count": 500,
   "videos": [
     {
@@ -1636,6 +1636,30 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/_6bvt2SczXU",
       "publishedAt": "2026-11-25",
+      "durationSeconds": null
+    },
+    {
+      "id": "QtcwVKmLJpY",
+      "title": "Qui a donné le plus à l’Ukraine depuis 2022 ?",
+      "source": "Franceinfo",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/QtcwVKmLJpY",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "WoVbg34nDmA",
+      "title": "Endlager für Atommüll in 400 Meter Tiefe",
+      "source": "Tagesschau",
+      "category": "Actualidad",
+      "country": "de",
+      "lang": "de",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/WoVbg34nDmA",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5979,30 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/ev9F50BDrfI",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "bHcwINEC53M",
-      "title": "1 femme sur 5 touchée par des violences économiques",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/bHcwINEC53M",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "GrP8dguqk60",
-      "title": "Ils sont emportés par la mer",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/GrP8dguqk60",
       "publishedAt": null,
       "durationSeconds": null
     }
