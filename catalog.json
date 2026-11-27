@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-27T06:00:18.430Z",
-  "totalArchiveVideos": 3745,
+  "generatedAt": "2026-11-27T07:00:18.343Z",
+  "totalArchiveVideos": 3749,
   "count": 500,
   "videos": [
     {
@@ -16,6 +16,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/keueXXekthE",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "GGkgpAYLAC4",
+      "title": "Futuro Nazionale va chiuso perché il fascismo non è un’opinione",
+      "source": "Fanpage.it",
+      "category": "Actualidad",
+      "country": "it",
+      "lang": "it",
+      "kind": "opinion",
+      "url": "https://www.youtube.com/shorts/GGkgpAYLAC4",
+      "publishedAt": "2026-11-26",
       "durationSeconds": null
     },
     {
@@ -1279,15 +1291,39 @@
       "durationSeconds": null
     },
     {
-      "id": "xqSeK3D2J9o",
-      "title": "Merz defends record jump in German defense spending | DW News",
+      "id": "6oFtUx1j5G0",
+      "title": "Palestinian Filmmakers Document War and Displacement at Doha Film Festival",
+      "source": "Al Jazeera English",
+      "category": "Cultura",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/6oFtUx1j5G0",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "5amHuZ3k6Ck",
+      "title": "Two Italians killed in drone attack in Kuwait | DW News",
       "source": "DW News",
       "category": "Actualidad",
       "country": "global",
       "lang": "en",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/xqSeK3D2J9o",
-      "publishedAt": "2026-11-25",
+      "url": "https://www.youtube.com/shorts/5amHuZ3k6Ck",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "6tsYu45rNIs",
+      "title": "Trappes : un mois après, des mères se confient",
+      "source": "France 24",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/6tsYu45rNIs",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5967,42 +6003,6 @@
       "lang": "es",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/Jn3zPj7PXqA",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "Zh3VqBj9nDU",
-      "title": "Perché De Gennaro è stato accusato di depistggio per la strage di via D'Amelio? Cosa dicono le carte",
-      "source": "Fanpage.it",
-      "category": "Actualidad",
-      "country": "it",
-      "lang": "it",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/Zh3VqBj9nDU",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "mHRQpaxWyn4",
-      "title": "Émilie König, \"égérie\" de l'État islamique, devant la justice",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/mHRQpaxWyn4",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "wM29Z32m_VM",
-      "title": "Sánchez: \"Estamos tocando con la yema de los dedos una mayoría progresista de 176 escaños\" #shorts",
-      "source": "EL PAÍS",
-      "category": "Política",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/wM29Z32m_VM",
       "publishedAt": null,
       "durationSeconds": null
     }
