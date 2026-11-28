@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-28T00:00:18.449Z",
-  "totalArchiveVideos": 4125,
+  "generatedAt": "2026-11-28T01:00:27.709Z",
+  "totalArchiveVideos": 4131,
   "count": 500,
   "videos": [
     {
@@ -16,6 +16,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/QfsRElNi93A",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "hTMee_aYCgY",
+      "title": "Mítico conta como diagnóstico de TDAH mudou sua percepção sobre si mesmo",
+      "source": "GloboNews",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/hTMee_aYCgY",
+      "publishedAt": "2026-11-27",
       "durationSeconds": null
     },
     {
@@ -955,15 +967,63 @@
       "durationSeconds": null
     },
     {
-      "id": "nA9bxRdU_hk",
-      "title": "🗣️ «Amiga, date cuenta»: el mensaje de Feijóo sobre la vivienda en el debate",
-      "source": "El Confidencial",
-      "category": "Política",
+      "id": "wq9Hj_R4xOE",
+      "title": "Kuwait summons Iranian ambassador after drone strike kills two Italians",
+      "source": "Al Jazeera English",
+      "category": "Sociedad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/wq9Hj_R4xOE",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "svzQVHplwpY",
+      "title": "Abren carpeta contra el \"Gullit\" Peña tras denuncia en León (",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/svzQVHplwpY",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "AXYzrNdO19Y",
+      "title": "COSTA RICA niega la entrada a Francesca Albanese RELATORA de la ONU para territorios PALESTINOS",
+      "source": "EL PAÍS",
+      "category": "Actualidad",
       "country": "es",
       "lang": "es",
-      "kind": "opinion",
-      "url": "https://www.youtube.com/shorts/nA9bxRdU_hk",
-      "publishedAt": "2026-11-26",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/AXYzrNdO19Y",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "tIV02hq2FhE",
+      "title": "¡Prepara el telescopio! Gran espectáculo astronómico con Lunas de Júpiter y lluvia de meteoros",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/tIV02hq2FhE",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "RNv-WDGp4lg",
+      "title": "Francesca Albanese seeks apology from Costa Rica after entry ban | AJ #shorts",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/RNv-WDGp4lg",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5943,66 +6003,6 @@
       "lang": "es",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/VrJyi-SfRrI",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "TrUzW6IlMcU",
-      "title": "What’s behind the rise of the far-right in Spain?",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/TrUzW6IlMcU",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "7xPdczdfxYY",
-      "title": "Vladimir Poutine, Benjamin Netanyahu... \"Tous ces gens-là se retrouveront au tribunal\" (Plantu)",
-      "source": "France 24",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/7xPdczdfxYY",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "VH-x9Qbiocg",
-      "title": "Melania Trump’s involvement in rescuing families in Ukraine",
-      "source": "CNN",
-      "category": "Política",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/VH-x9Qbiocg",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "RxV66pLotvw",
-      "title": "Un pétrolier fait naufrage au large d'Ibiza",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/RxV66pLotvw",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "2Is0268zhPc",
-      "title": "Thanksgiving storms flood US coasts and disrupt holiday travel",
-      "source": "Euronews English",
-      "category": "Sociedad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/2Is0268zhPc",
       "publishedAt": null,
       "durationSeconds": null
     }
