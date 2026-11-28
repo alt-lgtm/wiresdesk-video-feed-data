@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-28T02:00:17.983Z",
-  "totalArchiveVideos": 4138,
+  "generatedAt": "2026-11-28T03:00:18.564Z",
+  "totalArchiveVideos": 4143,
   "count": 500,
   "videos": [
     {
@@ -16,6 +16,18 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/QfsRElNi93A",
       "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "W2X9ctn7y2k",
+      "title": "Fortaleza celebra cultura nordestina com árvore de Natal gigante feita de redes",
+      "source": "GloboNews",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/W2X9ctn7y2k",
+      "publishedAt": "2026-11-27",
       "durationSeconds": null
     },
     {
@@ -976,6 +988,54 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/cAcdUP3p1Iw",
       "publishedAt": "2026-11-26",
+      "durationSeconds": null
+    },
+    {
+      "id": "eFhljvQvbmM",
+      "title": "This Taiwanese comedian mocked Xi Jinping. Then came the threats | DW News",
+      "source": "DW News",
+      "category": "Política",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/eFhljvQvbmM",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "zAdk8UvvYBE",
+      "title": "Bulgarians demand action by French after Marseille match violence | AJ #shorts",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/zAdk8UvvYBE",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "QGxE3sJemFs",
+      "title": "Medidas protetivas com monitoramento evitaram feminicídios em 17 estados, aponta estudo",
+      "source": "GloboNews",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/QGxE3sJemFs",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "wWO-mRZ9Ih8",
+      "title": "Mamdani recovering after ‘successful’ Achilles surgery",
+      "source": "NBC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/wWO-mRZ9Ih8",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5943,66 +6003,6 @@
       "lang": "fr",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/5uO4n6fYq4E",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "HGRQYEYTmRU",
-      "title": "E. Macron fustige \"la drôle d'arrogance\" de M. Le Pen",
-      "source": "Franceinfo",
-      "category": "Actualidad",
-      "country": "fr",
-      "lang": "fr",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/HGRQYEYTmRU",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "-BLyWQDeC9I",
-      "title": "Band performs in Times Square after Macy’s parade postponed",
-      "source": "CNN",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/-BLyWQDeC9I",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "G4Uhhmy_K9M",
-      "title": "Sánchez: “Ayuso ha pagado con dinero público un aticazo con 200 metros cuadrados”",
-      "source": "El Mundo",
-      "category": "Política",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/G4Uhhmy_K9M",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "kF9p-oWsuPY",
-      "title": "Feijóo utiliza la pizza de Luna Rosa para ejemplificar la subida de precios de Sánchez #Feijóo",
-      "source": "El Mundo",
-      "category": "Política",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/kF9p-oWsuPY",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "4wS5oyDJdTg",
-      "title": "Se hizo justicia: a 10 años de Argentina campeón de la Copa Davis 2016",
-      "source": "LA NACION",
-      "category": "Actualidad",
-      "country": "ar",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/4wS5oyDJdTg",
       "publishedAt": null,
       "durationSeconds": null
     }
