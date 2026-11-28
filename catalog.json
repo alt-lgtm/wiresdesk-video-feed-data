@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-28T10:00:28.395Z",
-  "totalArchiveVideos": 4184,
+  "generatedAt": "2026-11-28T10:56:27.912Z",
+  "totalArchiveVideos": 4189,
   "count": 500,
   "videos": [
     {
@@ -928,6 +928,66 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/UibHhFIg2O8",
       "publishedAt": "2026-11-26",
+      "durationSeconds": null
+    },
+    {
+      "id": "bJJr2kKVMdA",
+      "title": "Soupçons de fuites vers le RN : un proche de M. Le Pen perquisitionné",
+      "source": "Franceinfo",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/bJJr2kKVMdA",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "YfdoRWgUduU",
+      "title": "Später zahlen – und plötzlich tief in den Schulden?",
+      "source": "Tagesschau",
+      "category": "Actualidad",
+      "country": "de",
+      "lang": "de",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/YfdoRWgUduU",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "robPkjK_ngk",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza. #Spain #BBCNews",
+      "source": "BBC News",
+      "category": "Actualidad",
+      "country": "gb",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/robPkjK_ngk",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "hinmFZfikSk",
+      "title": "Gobernador de Jalisco pide que la FIL de Guadalajara no pierda autonomía ante Morena",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/hinmFZfikSk",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "Qm7xi_B1Cio",
+      "title": "Several students killed in blast beside Afghan school",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Qm7xi_B1Cio",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5943,66 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/WW1LI3LrzQQ",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "qAp_wXQSNas",
-      "title": "🎖️ Sánchez cuestiona el patriotismo de Feijóo y Abascal en el debate a cuatro",
-      "source": "El Confidencial",
-      "category": "Política",
-      "country": "es",
-      "lang": "es",
-      "kind": "opinion",
-      "url": "https://www.youtube.com/shorts/qAp_wXQSNas",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "xh9CxMOjBSw",
-      "title": "😅 El lapsus viral de Ada Colau al confundir a Abascal con \"el señor Ábalos\" 🏛️🇪🇸",
-      "source": "El Confidencial",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/xh9CxMOjBSw",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "a8UjT99r76s",
-      "title": "SÁNCHEZ le pide a Feijóo que pida la dimisión a AYUSO por el 'caso ático' #shorts",
-      "source": "EL PAÍS",
-      "category": "Política",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/a8UjT99r76s",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "dYDKfS_QxzA",
-      "title": "ABASCAL, el único candidato no condena la violencia machista al inicio del DEBATE A 4 #shorts",
-      "source": "EL PAÍS",
-      "category": "Actualidad",
-      "country": "es",
-      "lang": "es",
-      "kind": "opinion",
-      "url": "https://www.youtube.com/shorts/dYDKfS_QxzA",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "kVRY8Mvb6Fs",
-      "title": "ABASCAL carga contra SÁNCHEZ y lo llama \"el verdadero buitre del país\" #shorts",
-      "source": "EL PAÍS",
-      "category": "Política",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/kVRY8Mvb6Fs",
       "publishedAt": null,
       "durationSeconds": null
     }
