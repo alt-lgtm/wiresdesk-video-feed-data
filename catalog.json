@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-28T07:55:18.412Z",
-  "totalArchiveVideos": 4168,
+  "generatedAt": "2026-11-28T08:52:18.396Z",
+  "totalArchiveVideos": 4173,
   "count": 500,
   "videos": [
     {
@@ -976,6 +976,66 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/P18nBGETxaM",
       "publishedAt": "2026-11-26",
+      "durationSeconds": null
+    },
+    {
+      "id": "94BOCVmIs9M",
+      "title": "Você não será substituído pela IA, mas por quem souber usá-la",
+      "source": "GloboNews",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/94BOCVmIs9M",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "LNIDA84aTlc",
+      "title": "Spain faces political shift as far right gains ground",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/LNIDA84aTlc",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "OVqVhAwyH20",
+      "title": "“Sfollati per 10 volte”: i palestinesi scappati da Gaza e bloccati in Egitto",
+      "source": "Fanpage.it",
+      "category": "Actualidad",
+      "country": "it",
+      "lang": "it",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/OVqVhAwyH20",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "Pwg1mF9hi1A",
+      "title": "Soupçons de fuite vers le RN: l'ex-directeur de cabinet de Marine Le Pen perquisitionné",
+      "source": "BFMTV",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/Pwg1mF9hi1A",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "3MIRJhqDFps",
+      "title": "Claw machines in Japan aren’t just for fun and games",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/3MIRJhqDFps",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5943,66 +6003,6 @@
       "lang": "es",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/opzvqHbxjyA",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "qxamf-BcnrA",
-      "title": "¡DENUNCIAS ANÓNIMAS! DEA habilita líneas para reportar a criminales y presuntos narcopolíticos",
-      "source": "Azteca Noticias",
-      "category": "Actualidad",
-      "country": "mx",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/qxamf-BcnrA",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "K9eygRWYjAE",
-      "title": "Lo que revela un esqueleto de hace 13 mil años en México",
-      "source": "Milenio",
-      "category": "Actualidad",
-      "country": "mx",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/K9eygRWYjAE",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "gq6kH214CGg",
-      "title": "America’s Thanksgiving holiday seen through different eyes | AJ #shorts",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/gq6kH214CGg",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "s6llMxm6O1c",
-      "title": "Inside Ukraine’s power crisis amid its war with Russia",
-      "source": "Al Jazeera English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/s6llMxm6O1c",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "KPcSVcLiMhk",
-      "title": "Así han sido los momentos más destacados del debate a cuatro #Debate #Cuatro #EleccionesGenerales",
-      "source": "El Mundo",
-      "category": "Política",
-      "country": "es",
-      "lang": "es",
-      "kind": "opinion",
-      "url": "https://www.youtube.com/shorts/KPcSVcLiMhk",
       "publishedAt": null,
       "durationSeconds": null
     }
