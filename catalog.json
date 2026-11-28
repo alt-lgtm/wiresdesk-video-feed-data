@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-28T05:54:27.626Z",
-  "totalArchiveVideos": 4158,
+  "generatedAt": "2026-11-28T06:53:18.133Z",
+  "totalArchiveVideos": 4162,
   "count": 500,
   "videos": [
     {
@@ -979,39 +979,51 @@
       "durationSeconds": null
     },
     {
-      "id": "aPQ95rU0dnk",
-      "title": "¡CAYÓ DEL CIELO! Perrito aterriza sobre un hombre y sale ileso",
+      "id": "z0ooClh56wE",
+      "title": "Spain's far-right party poised for breakthrough in election",
+      "source": "Sky News",
+      "category": "Política",
+      "country": "gb",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/z0ooClh56wE",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "_OwSJj2lKtM",
+      "title": "Indonesians Recruited into Russia’s Army Through Fake Job Offers",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/_OwSJj2lKtM",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "rMtDEBic6f8",
+      "title": "Home explodes on Thanksgiving",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/rMtDEBic6f8",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "a3vr6Vg0wMQ",
+      "title": "Habitantes del Ajusco ya enfrentan temperaturas por debajo de los 6 °C y temen un invierno crudo",
       "source": "Azteca Noticias",
       "category": "Actualidad",
       "country": "mx",
       "lang": "es",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/aPQ95rU0dnk",
-      "publishedAt": "2026-11-26",
-      "durationSeconds": null
-    },
-    {
-      "id": "wuWEmroFgDg",
-      "title": "¡DENUNCIA AMENAZAS! Dirigente del PRD exhibe presuntos negocios de Andy López Beltrán",
-      "source": "Azteca Noticias",
-      "category": "Actualidad",
-      "country": "mx",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/wuWEmroFgDg",
-      "publishedAt": "2026-11-26",
-      "durationSeconds": null
-    },
-    {
-      "id": "cAcdUP3p1Iw",
-      "title": "Trabuco aceita assumir o Ministério da Fazenda no governo Lula 4",
-      "source": "GloboNews",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/cAcdUP3p1Iw",
-      "publishedAt": "2026-11-26",
+      "url": "https://www.youtube.com/shorts/a3vr6Vg0wMQ",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5991,18 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/6sPAfXhxCYA",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "Cz00voInBHw",
-      "title": "Malls make a comeback as shoppers seek more than deals",
-      "source": "Reuters",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/Cz00voInBHw",
       "publishedAt": null,
       "durationSeconds": null
     }
