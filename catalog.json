@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-28T06:53:18.133Z",
-  "totalArchiveVideos": 4162,
+  "generatedAt": "2026-11-28T07:55:18.412Z",
+  "totalArchiveVideos": 4168,
   "count": 500,
   "videos": [
     {
@@ -976,6 +976,78 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/P18nBGETxaM",
       "publishedAt": "2026-11-26",
+      "durationSeconds": null
+    },
+    {
+      "id": "lrHkijcDvf0",
+      "title": "Triangle des Bermudes enflamme l'Accor Arena pour son premier concert, Aya Nakamura absente",
+      "source": "BFMTV",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/lrHkijcDvf0",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "vtHuIvsky-M",
+      "title": "125 Jahre alter Sauerteig? In dieser Würzburger Bäckerei arbeitet Sauerteig „Adam“ unermüdlich",
+      "source": "Tagesschau",
+      "category": "Actualidad",
+      "country": "de",
+      "lang": "de",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/vtHuIvsky-M",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "tImBzzBU2-4",
+      "title": "Were nuclear test veterans used as 'human guinea pigs'?",
+      "source": "Sky News",
+      "category": "Actualidad",
+      "country": "gb",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/tImBzzBU2-4",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "h-VslGarQl8",
+      "title": "Novaya Gazeta Europe continues critical Russia reporting from abroad | DW News",
+      "source": "DW News",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/h-VslGarQl8",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "hvfW9U7Kr9U",
+      "title": "Tragedia en Zacatecas: muere alumna tras riña en secundaria",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/hvfW9U7Kr9U",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "mn9mR07_rZ0",
+      "title": "American Airlines jet clips another plane’s wing at DCA",
+      "source": "CNN",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/mn9mR07_rZ0",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5931,78 +6003,6 @@
       "lang": "es",
       "kind": "opinion",
       "url": "https://www.youtube.com/shorts/KPcSVcLiMhk",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "wVNRQ7r3Dlk",
-      "title": "Boston man who won $1 Million scratch ticket now faces deportation",
-      "source": "ABC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/wVNRQ7r3Dlk",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "slaDwiu2IB4",
-      "title": "Aliados veem Lula blindar Trabuco, escolhido para Fazenda, de \"efeito Levy\" | CNN Brasil",
-      "source": "CNN Brasil",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/slaDwiu2IB4",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "Jx_hSnOuERk",
-      "title": "Trump announces Florida disaster relief after severe weather",
-      "source": "NBC News",
-      "category": "Política",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/Jx_hSnOuERk",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "ZeQEJYtNqR0",
-      "title": "Tormentas en  COSTAS de EE UU: estados de EMERGENCIA, desfiles aplazados y mareas récord #shorts",
-      "source": "EL PAÍS",
-      "category": "Sociedad",
-      "country": "es",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/ZeQEJYtNqR0",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "mrPh4yE0T-I",
-      "title": "Ukrainian President Zelenskyy thanks Americans for support",
-      "source": "NBC News",
-      "category": "Política",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/mrPh4yE0T-I",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "6sPAfXhxCYA",
-      "title": "Trump and the first lady call service members",
-      "source": "NBC News",
-      "category": "Política",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/6sPAfXhxCYA",
       "publishedAt": null,
       "durationSeconds": null
     }
