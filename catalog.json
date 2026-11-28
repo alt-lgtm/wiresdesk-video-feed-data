@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-28T18:00:27.514Z",
-  "totalArchiveVideos": 4291,
+  "generatedAt": "2026-11-28T19:00:18.160Z",
+  "totalArchiveVideos": 4297,
   "count": 500,
   "videos": [
     {
@@ -847,15 +847,75 @@
       "durationSeconds": null
     },
     {
-      "id": "NQ3wjL4sduk",
-      "title": "Albanien: Seniorin stellt sich Demonstranten entgegen | #albanien #demonstration #seniorin",
-      "source": "ZDFheute",
+      "id": "_hozKuPMkLA",
+      "title": "In Afghanistan sind bei einer Explosion mindestens zehn Schüler:innen ums Leben gekommen #tagesschau",
+      "source": "Tagesschau",
       "category": "Actualidad",
       "country": "de",
       "lang": "de",
       "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/NQ3wjL4sduk",
-      "publishedAt": "2026-11-27",
+      "url": "https://www.youtube.com/shorts/_hozKuPMkLA",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "i0dhJ4cWpSA",
+      "title": "Greve global na Amazon une trabalhadores de 20 países na Black Friday",
+      "source": "Euronews Português",
+      "category": "Actualidad",
+      "country": "pt",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/i0dhJ4cWpSA",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "BA7NtlPguBM",
+      "title": "Lula rebate críticas da base sobre Trabuco: ‘Companheiro de muito caráter’",
+      "source": "GloboNews",
+      "category": "Actualidad",
+      "country": "br",
+      "lang": "pt",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/BA7NtlPguBM",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "jJgE3bi3O-c",
+      "title": "Macy’s 100th Thanksgiving Day Parade kicks off in NYC",
+      "source": "NBC News",
+      "category": "Actualidad",
+      "country": "us",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/jJgE3bi3O-c",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "039IJwUGOkk",
+      "title": "La ciencia de las personas trans,  en La Comentada | RTVE Noticias",
+      "source": "RTVE Noticias",
+      "category": "Actualidad",
+      "country": "es",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/039IJwUGOkk",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "QOHBr4Q-6mU",
+      "title": "Peru seizes hundreds of tarantulas and scorpions at Lima airport",
+      "source": "Al Jazeera English",
+      "category": "Actualidad",
+      "country": "global",
+      "lang": "en",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/QOHBr4Q-6mU",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5943,66 +6003,6 @@
       "lang": "fr",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/lDeVjOMQAqk",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "kHTkkoUKSjc",
-      "title": "'A lot of political theatre': EU summit ends in disarray as leaders cling to red lines",
-      "source": "Euronews English",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/kHTkkoUKSjc",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "zFxH977m7sg",
-      "title": "Newly released footage shows moments leading up to deadly tanker fire",
-      "source": "ABC News",
-      "category": "Actualidad",
-      "country": "us",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/zFxH977m7sg",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "Z82yC-Pekf4",
-      "title": "Macron responde a Le Pen sobre orçamento da UE: “É uma estranha arrogância”",
-      "source": "Euronews Português",
-      "category": "Actualidad",
-      "country": "pt",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/Z82yC-Pekf4",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "NVQxdkHn1Bs",
-      "title": "Spreading lead on purpose? | DW News",
-      "source": "DW News",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "en",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/NVQxdkHn1Bs",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "_IMFp6fU6v0",
-      "title": "Hermann Tertsch (Vox): \"No creemos en esta Unión Europea\"",
-      "source": "Euronews en español",
-      "category": "Actualidad",
-      "country": "global",
-      "lang": "es",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/_IMFp6fU6v0",
       "publishedAt": null,
       "durationSeconds": null
     }
