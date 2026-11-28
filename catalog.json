@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "kind": "wd-video-metadata",
   "preview": true,
-  "generatedAt": "2026-11-28T05:00:27.727Z",
-  "totalArchiveVideos": 4155,
+  "generatedAt": "2026-11-28T05:54:27.626Z",
+  "totalArchiveVideos": 4158,
   "count": 500,
   "videos": [
     {
@@ -1012,6 +1012,42 @@
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/cAcdUP3p1Iw",
       "publishedAt": "2026-11-26",
+      "durationSeconds": null
+    },
+    {
+      "id": "L_1kYeiyOT4",
+      "title": "Horror en Sinaloa | Ejecutan en Culiacán al regidor Julio César Osuna",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/L_1kYeiyOT4",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "ddxyb3f8CLU",
+      "title": "La FGR mantiene abiertas 16 carpetas por presuntas irregularidades en contratos del INE desde 2014",
+      "source": "Azteca Noticias",
+      "category": "Actualidad",
+      "country": "mx",
+      "lang": "es",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/ddxyb3f8CLU",
+      "publishedAt": null,
+      "durationSeconds": null
+    },
+    {
+      "id": "ZAEv78hcUP4",
+      "title": "Les sapins de Noël arrivent !",
+      "source": "Franceinfo",
+      "category": "Actualidad",
+      "country": "fr",
+      "lang": "fr",
+      "kind": "unclassified",
+      "url": "https://www.youtube.com/shorts/ZAEv78hcUP4",
+      "publishedAt": null,
       "durationSeconds": null
     },
     {
@@ -5967,42 +6003,6 @@
       "lang": "en",
       "kind": "unclassified",
       "url": "https://www.youtube.com/shorts/Cz00voInBHw",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "jbV3L_0NaZg",
-      "title": "Assunto do vídeo (ênfase palavras chave) | Nome do Programa",
-      "source": "GloboNews",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/jbV3L_0NaZg",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "jwe_urWha04",
-      "title": "Julia Duailibi e Octavio Guedes fazem piada sobre decoração de Natal de São Paulo",
-      "source": "GloboNews",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/jwe_urWha04",
-      "publishedAt": null,
-      "durationSeconds": null
-    },
-    {
-      "id": "x9MS-Fb426s",
-      "title": "Av. Paulista é a via de São Paulo com mais furtos e roubos de celulares",
-      "source": "CNN Brasil",
-      "category": "Actualidad",
-      "country": "br",
-      "lang": "pt",
-      "kind": "unclassified",
-      "url": "https://www.youtube.com/shorts/x9MS-Fb426s",
       "publishedAt": null,
       "durationSeconds": null
     }
